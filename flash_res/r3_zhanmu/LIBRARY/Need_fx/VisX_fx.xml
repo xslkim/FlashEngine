@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/VisX_fx" itemID="54310c0e-00000eb9" symbolType="graphic" lastModified="1426310903">
+  <timeline>
+    <DOMTimeline name="VisX_fx">
+      <layers>
+        <DOMLayer name="图层 17" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Hyx.png">
+                  <matrix>
+                    <Matrix a="2.17877197265625" d="2.17877197265625" tx="-186.25" ty="-139.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="80.9" y="39"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

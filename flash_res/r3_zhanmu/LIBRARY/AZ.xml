@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AZ" itemID="54df22e4-00003813" symbolType="graphic" lastModified="1436511435">
+  <timeline>
+    <DOMTimeline name="AZ">
+      <layers>
+        <DOMLayer name="hurt" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_hurt" centerPoint3DX="3.35" centerPoint3DY="-84.65">
+                  <matrix>
+                    <Matrix a="1.47998046875" d="1.79998779296875" tx="-70.65" ty="-174.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Jm_Behit" selected="true" symbolType="graphic" centerPoint3DX="-1.45" centerPoint3DY="-109.5" loop="loop">
+                  <matrix>
+                    <Matrix a="0.918991088867188" d="0.918991088867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.6" y="-119.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

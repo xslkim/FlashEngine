@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Flower_fx" itemID="54320bd1-00000473" symbolType="graphic" lastModified="1412657307">
+  <timeline>
+    <DOMTimeline name="Flower_fx">
+      <layers>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Rosr.png">
+                  <matrix>
+                    <Matrix a="3.23333740234375" d="3.23333740234375" tx="-201.1" ty="-137.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18" y="30"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

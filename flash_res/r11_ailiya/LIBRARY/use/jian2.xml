@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/jian2" itemID="55b98830-000002f0" symbolType="graphic" lastModified="1438256252">
+  <timeline>
+    <DOMTimeline name="jian2">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="h22" symbolType="graphic" centerPoint3DX="0.9" centerPoint3DY="8.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.69140625" b="-0.400131225585938" c="0.400131225585938" d="-0.69140625" tx="1.05" ty="7.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/w222p.png">
+                  <matrix>
+                    <Matrix tx="-13.7" ty="-5.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

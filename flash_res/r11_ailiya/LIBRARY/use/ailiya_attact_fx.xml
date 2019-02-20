@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/ailiya_attact_fx" itemID="54abbad9-00000245" symbolType="graphic" lastModified="1421404925">
+  <timeline>
+    <DOMTimeline name="ailiya_attact_fx">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="use/ss" symbolType="graphic" centerPoint3DX="-60" centerPoint3DY="1.5" loop="loop">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-60" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="-1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

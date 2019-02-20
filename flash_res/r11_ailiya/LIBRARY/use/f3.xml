@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/f3" itemID="546330df-000004ff" symbolType="graphic" lastModified="1438254398">
+  <timeline>
+    <DOMTimeline name="f3">
+      <layers>
+        <DOMLayer name="_0001_f2.png" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/_0001_f2.png">
+                  <matrix>
+                    <Matrix tx="-4.35" ty="-2.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

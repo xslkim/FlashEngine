@@ -1,0 +1,425 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" objectsSnapTo="false" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="png" itemID="54633274-00000612"/>
+          <DOMFolderItem name="use" itemID="5463327e-00000616"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="png/_0000_f1.png" itemID="55ba0bb5-00001182" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0000_f1.png" sourceLastImported="1438327117" externalFileSize="4333" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0000_f1.png" bitmapDataHRef="M 124 1438253730.dat" frameRight="1280" frameBottom="1240"/>
+          <DOMBitmapItem name="png/_0001_f2.png" itemID="55ba0bb5-00001183" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0001_f2.png" sourceLastImported="1438327117" externalFileSize="893" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0001_f2.png" bitmapDataHRef="M 125 1438253730.dat" frameRight="240" frameBottom="660"/>
+          <DOMBitmapItem name="png/_0002_f3.png" itemID="55ba0bb5-00001184" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0002_f3.png" sourceLastImported="1438327117" externalFileSize="3043" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0002_f3.png" bitmapDataHRef="M 126 1438253730.dat" frameRight="660" frameBottom="1100"/>
+          <DOMBitmapItem name="png/_0003_f4.png" itemID="55ba0bb5-00001185" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0003_f4.png" sourceLastImported="1438327117" externalFileSize="911" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0003_f4.png" bitmapDataHRef="M 127 1438253730.dat" frameRight="520" frameBottom="460"/>
+          <DOMBitmapItem name="png/_0004_f5.png" itemID="55ba0bb5-00001186" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0004_f5.png" sourceLastImported="1438327117" externalFileSize="2305" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0004_f5.png" bitmapDataHRef="M 128 1438253730.dat" frameRight="800" frameBottom="920"/>
+          <DOMBitmapItem name="png/_0005_face_biyan.png" itemID="55ba0bb5-00001187" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0005_face_biyan.png" sourceLastImported="1438327117" externalFileSize="8003" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0005_face_biyan.png" bitmapDataHRef="M 129 1438253730.dat" frameRight="1180" frameBottom="1320"/>
+          <DOMBitmapItem name="png/_0007_face.png" itemID="55ba0bb5-00001188" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0007_face.png" sourceLastImported="1438327117" externalFileSize="8125" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0007_face.png" bitmapDataHRef="M 131 1438253730.dat" frameRight="1180" frameBottom="1320"/>
+          <DOMBitmapItem name="png/_0008_face_behite.png" itemID="55ba0bb5-00001189" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0008_face_behite.png" sourceLastImported="1438327117" externalFileSize="8035" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0008_face_behite.png" bitmapDataHRef="M 132 1438253730.dat" frameRight="1180" frameBottom="1320"/>
+          <DOMBitmapItem name="png/_0009_face_attack.png" itemID="55ba0bb5-0000118a" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0009_face_attack.png" sourceLastImported="1438327117" externalFileSize="8132" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0009_face_attack.png" bitmapDataHRef="M 133 1438253730.dat" frameRight="1180" frameBottom="1320"/>
+          <DOMBitmapItem name="png/_0010_face_v.png" itemID="55ba0bb5-0000118b" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0010_face_v.png" sourceLastImported="1438327117" externalFileSize="8117" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0010_face_v.png" bitmapDataHRef="M 134 1438253730.dat" frameRight="1180" frameBottom="1320"/>
+          <DOMBitmapItem name="png/_0011_body.png" itemID="55ba0bb5-0000118c" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0011_body.png" sourceLastImported="1438327117" externalFileSize="2686" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0011_body.png" bitmapDataHRef="M 135 1438253730.dat" frameRight="620" frameBottom="780"/>
+          <DOMBitmapItem name="png/_0012_q1.png" itemID="55ba0bb5-0000118d" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0012_q1.png" sourceLastImported="1438327117" externalFileSize="1245" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0012_q1.png" bitmapDataHRef="M 136 1438253730.dat" frameRight="520" frameBottom="460"/>
+          <DOMBitmapItem name="png/_0013_a2.png" itemID="55ba0bb5-0000118e" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0013_a2.png" sourceLastImported="1438327117" externalFileSize="1427" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0013_a2.png" bitmapDataHRef="M 137 1438253730.dat" frameRight="520" frameBottom="480"/>
+          <DOMBitmapItem name="png/_0014_r_gb1.png" itemID="55ba0bb5-0000118f" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0014_r_gb1.png" sourceLastImported="1438327117" externalFileSize="833" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0014_r_gb1.png" bitmapDataHRef="M 138 1438253730.dat" frameRight="300" frameBottom="460"/>
+          <DOMBitmapItem name="png/_0015_l_gb1.png" itemID="55ba0bb5-00001190" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/_0015_l_gb1.png" sourceLastImported="1438327117" externalFileSize="721" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/_0015_l_gb1.png" bitmapDataHRef="M 123 1438253730.dat" frameRight="300" frameBottom="380"/>
+          <DOMBitmapItem name="png/atfx_00.png" itemID="55ba0bb5-00001191" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_00.png" sourceLastImported="1438327117" externalFileSize="8035" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_00.png" bitmapDataHRef="M 81 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_01.png" itemID="55ba0bb5-00001192" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_01.png" sourceLastImported="1438327117" externalFileSize="7927" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_01.png" bitmapDataHRef="M 82 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_02.png" itemID="55ba0bb5-00001193" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_02.png" sourceLastImported="1438327117" externalFileSize="8032" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_02.png" bitmapDataHRef="M 83 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_03.png" itemID="55ba0bb5-00001194" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_03.png" sourceLastImported="1438327117" externalFileSize="8026" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_03.png" bitmapDataHRef="M 84 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_04.png" itemID="55ba0bb5-00001195" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_04.png" sourceLastImported="1438327118" externalFileSize="7942" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_04.png" bitmapDataHRef="M 85 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_06.png" itemID="55ba0bb5-00001196" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_06.png" sourceLastImported="1438327118" externalFileSize="7895" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_06.png" bitmapDataHRef="M 86 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_08.png" itemID="55ba0bb5-00001197" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_08.png" sourceLastImported="1438327118" externalFileSize="7896" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_08.png" bitmapDataHRef="M 87 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_10.png" itemID="55ba0bb5-00001198" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_10.png" sourceLastImported="1438327118" externalFileSize="7794" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_10.png" bitmapDataHRef="M 88 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_12.png" itemID="55ba0bb5-00001199" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_12.png" sourceLastImported="1438327118" externalFileSize="7720" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_12.png" bitmapDataHRef="M 89 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_14.png" itemID="55ba0bb5-0000119a" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_14.png" sourceLastImported="1438327118" externalFileSize="7714" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_14.png" bitmapDataHRef="M 90 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_16.png" itemID="55ba0bb5-0000119b" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_16.png" sourceLastImported="1438327118" externalFileSize="7633" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_16.png" bitmapDataHRef="M 91 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_17.png" itemID="55ba0bb5-0000119c" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_17.png" sourceLastImported="1438327118" externalFileSize="7453" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_17.png" bitmapDataHRef="M 92 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_18.png" itemID="55ba0bb5-0000119d" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_18.png" sourceLastImported="1438327118" externalFileSize="7234" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_18.png" bitmapDataHRef="M 93 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_19.png" itemID="55ba0bb5-0000119e" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_19.png" sourceLastImported="1438327118" externalFileSize="7028" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_19.png" bitmapDataHRef="M 94 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_20.png" itemID="55ba0bb5-0000119f" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_20.png" sourceLastImported="1438327118" externalFileSize="6771" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_20.png" bitmapDataHRef="M 95 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_21.png" itemID="55ba0bb5-000011a0" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_21.png" sourceLastImported="1438327118" externalFileSize="6271" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_21.png" bitmapDataHRef="M 96 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/atfx_22.png" itemID="55ba0bb5-000011a1" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/atfx_22.png" sourceLastImported="1438327118" externalFileSize="4934" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/atfx_22.png" bitmapDataHRef="M 97 1434458202.dat" frameRight="3280" frameBottom="2560"/>
+          <DOMBitmapItem name="png/attact_21.png" itemID="55ba0bb5-000011a2" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attact_21.png" sourceLastImported="1438327118" externalFileSize="6825" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attact_21.png" bitmapDataHRef="M 29 1415868612.dat" frameRight="4640" frameBottom="1320"/>
+          <DOMBitmapItem name="png/attact22_00.png" itemID="55ba100c-0000181f" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attact22_00.png" sourceLastImported="1438327118" externalFileSize="27705" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attact22_00.png" bitmapDataHRef="M 92 1434454252.dat" frameRight="5120" frameBottom="1760"/>
+          <DOMBitmapItem name="png/attactfx1_16.png" itemID="55ba100c-00001820" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_16.png" sourceLastImported="1438327118" externalFileSize="3409" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_16.png" bitmapDataHRef="M 176 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_17.png" itemID="55ba100c-00001821" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_17.png" sourceLastImported="1438327118" externalFileSize="3284" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_17.png" bitmapDataHRef="M 177 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_18.png" itemID="55ba100c-00001822" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_18.png" sourceLastImported="1438327118" externalFileSize="3023" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_18.png" bitmapDataHRef="M 178 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_19.png" itemID="55ba100c-00001823" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_19.png" sourceLastImported="1438327118" externalFileSize="2739" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_19.png" bitmapDataHRef="M 179 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_20.png" itemID="55ba100c-00001824" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_20.png" sourceLastImported="1438327118" externalFileSize="2246" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_20.png" bitmapDataHRef="M 180 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_21.png" itemID="55ba100c-00001825" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_21.png" sourceLastImported="1438327118" externalFileSize="1810" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_21.png" bitmapDataHRef="M 181 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_22.png" itemID="55ba100c-00001826" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_22.png" sourceLastImported="1438327118" externalFileSize="1445" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_22.png" bitmapDataHRef="M 182 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_23.png" itemID="55ba100c-00001827" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_23.png" sourceLastImported="1438327118" externalFileSize="1146" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_23.png" bitmapDataHRef="M 183 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/attactfx1_24.png" itemID="55ba100c-00001828" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/attactfx1_24.png" sourceLastImported="1438327118" externalFileSize="858" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/attactfx1_24.png" bitmapDataHRef="M 184 1438256958.dat" frameRight="1240" frameBottom="960"/>
+          <DOMBitmapItem name="png/handd2.png" itemID="55ba0bb5-000011a4" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/handd2.png" sourceLastImported="1438327118" externalFileCRC32="3353315491" externalFileSize="1063" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/handd2.png" bitmapDataHRef="M 97 1438222365.dat" frameRight="400" frameBottom="420"/>
+          <DOMBitmapItem name="png/jian3.png" itemID="55ba0bb5-000011a5" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jian3.png" sourceLastImported="1438327118" externalFileCRC32="1041510285" externalFileSize="2844" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jian3.png" bitmapDataHRef="M 44 1415944919.dat" frameRight="1900" frameBottom="500"/>
+          <DOMBitmapItem name="png/jn_00.png" itemID="55ba0bb5-000011a6" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jn_00.png" sourceLastImported="1438327118" externalFileSize="22844" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jn_00.png" bitmapDataHRef="M 167 1438255843.dat" frameRight="2420" frameBottom="2580"/>
+          <DOMBitmapItem name="png/jn_01.png" itemID="55ba0bb5-000011a7" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jn_01.png" sourceLastImported="1438327118" externalFileSize="21018" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jn_01.png" bitmapDataHRef="M 168 1438255844.dat" frameRight="2440" frameBottom="2340"/>
+          <DOMBitmapItem name="png/jn_02.png" itemID="55ba0bb5-000011a8" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jn_02.png" sourceLastImported="1438327118" externalFileSize="22313" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jn_02.png" bitmapDataHRef="M 169 1438255844.dat" frameRight="1900" frameBottom="3020"/>
+          <DOMBitmapItem name="png/jn_03.png" itemID="55ba0bb5-000011a9" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jn_03.png" sourceLastImported="1438327118" externalFileSize="21415" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jn_03.png" bitmapDataHRef="M 170 1438255844.dat" frameRight="3260" frameBottom="1980"/>
+          <DOMBitmapItem name="png/jn_04.png" itemID="55ba0bb5-000011aa" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/jn_04.png" sourceLastImported="1438327118" externalFileSize="24506" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/jn_04.png" bitmapDataHRef="M 171 1438255844.dat" frameRight="3700" frameBottom="2320"/>
+          <DOMBitmapItem name="png/l_gb2.png" itemID="55ba0bb5-000011ab" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/l_gb2.png" sourceLastImported="1438327118" externalFileCRC32="709641049" externalFileSize="456" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/l_gb2.png" bitmapDataHRef="M 45 1427770487.dat" frameRight="260" frameBottom="240"/>
+          <DOMBitmapItem name="png/l_hand1.png" itemID="55ba0bb5-000011ac" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/l_hand1.png" sourceLastImported="1438327118" externalFileSize="3029" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/l_hand1.png" bitmapDataHRef="M 44 1427770487.dat" frameRight="1900" frameBottom="500"/>
+          <DOMBitmapItem name="png/l_t1.png" itemID="55ba0bb5-000011ad" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/l_t1.png" sourceLastImported="1438327118" externalFileSize="273" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/l_t1.png" bitmapDataHRef="M 40 1427770487.dat" frameRight="220" frameBottom="120"/>
+          <DOMBitmapItem name="png/l_t2.png" itemID="55ba0bb5-000011ae" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/l_t2.png" sourceLastImported="1438327118" externalFileSize="394" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/l_t2.png" bitmapDataHRef="M 41 1427770487.dat" frameRight="240" frameBottom="220"/>
+          <DOMBitmapItem name="png/l_t3.png" itemID="55ba0bb5-000011af" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/l_t3.png" sourceLastImported="1438327118" externalFileSize="693" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/l_t3.png" bitmapDataHRef="M 42 1427770487.dat" frameRight="340" frameBottom="360"/>
+          <DOMBitmapItem name="png/pf2_00.png" itemID="55ba0bb5-000011b0" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_00.png" sourceLastImported="1438327118" externalFileSize="3724" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_00.png" bitmapDataHRef="M 139 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_02.png" itemID="55ba0bb5-000011b1" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_02.png" sourceLastImported="1438327118" externalFileSize="3790" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_02.png" bitmapDataHRef="M 141 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_04.png" itemID="55ba0bb5-000011b2" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_04.png" sourceLastImported="1438327118" externalFileSize="3734" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_04.png" bitmapDataHRef="M 143 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_06.png" itemID="55ba0bb5-000011b3" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_06.png" sourceLastImported="1438327118" externalFileSize="3752" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_06.png" bitmapDataHRef="M 145 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_08.png" itemID="55ba0bb5-000011b4" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_08.png" sourceLastImported="1438327118" externalFileSize="3766" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_08.png" bitmapDataHRef="M 147 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_10.png" itemID="55ba0bb5-000011b5" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_10.png" sourceLastImported="1438327118" externalFileSize="3858" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_10.png" bitmapDataHRef="M 149 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_12.png" itemID="55ba0bb5-000011b6" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_12.png" sourceLastImported="1438327118" externalFileSize="3634" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_12.png" bitmapDataHRef="M 151 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_14.png" itemID="55ba0bb5-000011b7" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_14.png" sourceLastImported="1438327118" externalFileSize="3437" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_14.png" bitmapDataHRef="M 153 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_16.png" itemID="55ba0bb5-000011b8" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_16.png" sourceLastImported="1438327118" externalFileSize="3655" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_16.png" bitmapDataHRef="M 155 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_18.png" itemID="55ba0bb5-000011b9" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_18.png" sourceLastImported="1438327118" externalFileSize="3703" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_18.png" bitmapDataHRef="M 157 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_20.png" itemID="55ba0bb5-000011ba" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_20.png" sourceLastImported="1438327118" externalFileSize="3833" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_20.png" bitmapDataHRef="M 159 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_22.png" itemID="55ba0bb5-000011bb" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_22.png" sourceLastImported="1438327118" externalFileSize="3882" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_22.png" bitmapDataHRef="M 161 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_24.png" itemID="55ba0bb5-000011bc" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_24.png" sourceLastImported="1438327118" externalFileSize="3787" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_24.png" bitmapDataHRef="M 163 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf2_26.png" itemID="55ba0bb5-000011bd" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf2_26.png" sourceLastImported="1438327118" externalFileSize="3850" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf2_26.png" bitmapDataHRef="M 165 1438254831.dat" frameRight="1380" frameBottom="940"/>
+          <DOMBitmapItem name="png/pf22_00.png" itemID="55ba0bb5-000011be" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf22_00.png" sourceLastImported="1438327118" externalFileSize="1034" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf22_00.png" bitmapDataHRef="M 125 1433139004.dat" frameRight="800" frameBottom="260"/>
+          <DOMBitmapItem name="png/pf22_02.png" itemID="55ba0bb5-000011bf" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf22_02.png" sourceLastImported="1438327118" externalFileSize="939" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf22_02.png" bitmapDataHRef="M 127 1433139004.dat" frameRight="800" frameBottom="260"/>
+          <DOMBitmapItem name="png/pf22_04.png" itemID="55ba0bb5-000011c0" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf22_04.png" sourceLastImported="1438327118" externalFileSize="896" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf22_04.png" bitmapDataHRef="M 129 1433139004.dat" frameRight="800" frameBottom="260"/>
+          <DOMBitmapItem name="png/pf22_06.png" itemID="55ba0bb5-000011c1" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf22_06.png" sourceLastImported="1438327118" externalFileSize="1009" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf22_06.png" bitmapDataHRef="M 131 1433139004.dat" frameRight="800" frameBottom="260"/>
+          <DOMBitmapItem name="png/pf22_08.png" itemID="55ba0bb5-000011c2" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/pf22_08.png" sourceLastImported="1438327118" externalFileSize="1065" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/pf22_08.png" bitmapDataHRef="M 133 1433139004.dat" frameRight="800" frameBottom="260"/>
+          <DOMBitmapItem name="png/q3.png" itemID="55ba0bb5-000011c3" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/q3.png" sourceLastImported="1438327118" externalFileSize="618" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/q3.png" bitmapDataHRef="M 46 1427770487.dat" frameRight="800" frameBottom="360"/>
+          <DOMBitmapItem name="png/qt.png" itemID="55ba0bb5-000011c4" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/qt.png" sourceLastImported="1438327118" externalFileSize="579" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/qt.png" bitmapDataHRef="M 131 1427370582.dat" frameRight="280" frameBottom="280"/>
+          <DOMBitmapItem name="png/r_gb2.png" itemID="55ba0bb5-000011c5" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_gb2.png" sourceLastImported="1438327118" externalFileCRC32="2131628903" externalFileSize="358" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_gb2.png" bitmapDataHRef="M 33 1427770487.dat" frameRight="220" frameBottom="220"/>
+          <DOMBitmapItem name="png/r_hand1.png" itemID="55ba0bb5-000011c6" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_hand1.png" sourceLastImported="1438327118" externalFileSize="562" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_hand1.png" bitmapDataHRef="M 42 1427268880.dat" frameRight="320" frameBottom="280"/>
+          <DOMBitmapItem name="png/r_hand2.png" itemID="55ba0bb5-000011c7" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_hand2.png" sourceLastImported="1438327118" externalFileSize="561" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_hand2.png" bitmapDataHRef="M 32 1427770487.dat" frameRight="320" frameBottom="280"/>
+          <DOMBitmapItem name="png/r_t1.png" itemID="55ba0bb5-000011c8" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_t1.png" sourceLastImported="1438327118" externalFileSize="238" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_t1.png" bitmapDataHRef="M 36 1427770487.dat" frameRight="220" frameBottom="100"/>
+          <DOMBitmapItem name="png/r_t2.png" itemID="55ba0bb5-000011c9" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_t2.png" sourceLastImported="1438327118" externalFileSize="351" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_t2.png" bitmapDataHRef="M 37 1427770487.dat" frameRight="220" frameBottom="220"/>
+          <DOMBitmapItem name="png/r_t3.png" itemID="55ba0bb5-000011ca" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/r_t3.png" sourceLastImported="1438327118" externalFileSize="669" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/r_t3.png" bitmapDataHRef="M 38 1427770487.dat" frameRight="340" frameBottom="380"/>
+          <DOMBitmapItem name="png/Shadow.png" itemID="55ba0bb5-000011cb" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/Shadow.png" sourceLastImported="1438327118" externalFileSize="1657" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/Shadow.png" bitmapDataHRef="M 66 1427770487.dat" frameRight="2340" frameBottom="620"/>
+          <DOMBitmapItem name="png/shou_win.png" itemID="55ba0bb5-000011cc" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/shou_win.png" sourceLastImported="1438327118" externalFileSize="2139" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/shou_win.png" bitmapDataHRef="M 45 1415945708.dat" frameRight="660" frameBottom="660"/>
+          <DOMBitmapItem name="png/star_light.png" itemID="55ba0bb5-000011cd" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/star_light.png" sourceLastImported="1438327118" externalFileCRC32="4203287843" externalFileSize="4195" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/star_light.png" bitmapDataHRef="M 46 1415947552.dat" frameRight="1600" frameBottom="1600"/>
+          <DOMBitmapItem name="png/w222p.png" itemID="55ba100c-00001829" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/w222p.png" sourceLastImported="1438327118" externalFileSize="3843" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/w222p.png" bitmapDataHRef="M 175 1438256230.dat" frameRight="2080" frameBottom="660"/>
+          <DOMBitmapItem name="png/wp.png" itemID="55ba100c-0000182a" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/wp.png" sourceLastImported="1438327118" externalFileSize="2692" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/wp.png" bitmapDataHRef="M 46 1427268880.dat" frameRight="1900" frameBottom="480"/>
+          <DOMBitmapItem name="png/ws.png" itemID="55ba0bb5-000011cf" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/ws.png" sourceLastImported="1438327118" externalFileSize="809" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/ws.png" bitmapDataHRef="M 103 1427422753.dat" frameRight="280" frameBottom="380"/>
+          <DOMBitmapItem name="png/xy1_00.png" itemID="55ba0bb5-000011d0" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/xy1_00.png" sourceLastImported="1438327118" externalFileSize="52016" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/xy1_00.png" bitmapDataHRef="M 172 1438255844.dat" frameRight="4820" frameBottom="2740"/>
+          <DOMBitmapItem name="png/xy2_00.png" itemID="55ba0bb5-000011d1" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/xy2_00.png" sourceLastImported="1438327118" externalFileSize="49188" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/xy2_00.png" bitmapDataHRef="M 173 1438255844.dat" frameRight="3740" frameBottom="3120"/>
+          <DOMBitmapItem name="png/xy3_00.png" itemID="55ba0bb5-000011d2" sourceExternalFilepath="F:/Bmm_work/IceFire/update/美术资源/动画-角色/r11_ailiya/LIBRARY/png/xy3_00.png" sourceLastImported="1438327118" externalFileSize="49805" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="png/xy3_00.png" bitmapDataHRef="M 174 1438255844.dat" frameRight="5820" frameBottom="2500"/>
+     </media>
+     <symbols>
+          <Include href="af1.xml" itemIcon="1" loadImmediate="false" itemID="556bf5b2-00000559" lastModified="1438254952"/>
+          <Include href="ailiya_attack2.xml" loadImmediate="false" itemID="55b9afdf-0000074f" lastModified="1438326568"/>
+          <Include href="ailiya_attact.xml" loadImmediate="false" itemID="5464419c-0000040c" lastModified="1438257242"/>
+          <Include href="ailiya_behite.xml" loadImmediate="false" itemID="55139d66-000007e2" lastModified="1438257289"/>
+          <Include href="ailiya_dead.xml" loadImmediate="false" itemID="54657077-00000451" lastModified="1438257495"/>
+          <Include href="ailiya_run.xml" loadImmediate="false" itemID="5513accc-00000c98" lastModified="1438254961"/>
+          <Include href="ailiya_run_n.xml" loadImmediate="false" itemID="5513f2e6-00002270" lastModified="1427800528"/>
+          <Include href="ailiya_skill729.xml" loadImmediate="false" itemID="55b8a154-0000274b" lastModified="1438256636"/>
+          <Include href="ailiya_skill7292.xml" loadImmediate="false" itemID="55ba0cc9-000012e8" lastModified="1438326379"/>
+          <Include href="ailiya_stand.xml" loadImmediate="false" itemID="55128f56-000009c2" lastModified="1438257196"/>
+          <Include href="ailiya_stand_n.xml" loadImmediate="false" itemID="5513eca5-00001fce" lastModified="1427800577"/>
+          <Include href="ailiya_victory_1.xml" loadImmediate="false" itemID="5465b079-00000b2c" lastModified="1427800585"/>
+          <Include href="ailiya_victory_2.xml" loadImmediate="false" itemID="5465b075-00000b2b" lastModified="1427800598"/>
+          <Include href="atffx.xml" itemIcon="1" loadImmediate="false" itemID="55800758-0000173c" lastModified="1434458139"/>
+          <Include href="atfx1.xml" itemIcon="1" loadImmediate="false" itemID="557eb525-0000180c" lastModified="1434368921"/>
+          <Include href="atfx2.xml" itemIcon="1" loadImmediate="false" itemID="557ebc6d-000018c6" lastModified="1438327130"/>
+          <Include href="box_attack.xml" loadImmediate="false" itemID="5438bbbd-000005b8" lastModified="1413004236"/>
+          <Include href="box_hurt.xml" loadImmediate="false" itemID="5438bbc5-000005b9" lastModified="1413004242"/>
+          <Include href="cf2.xml" itemIcon="1" loadImmediate="false" itemID="556bf734-0000057d" lastModified="1433139041"/>
+          <Include href="h22.xml" itemIcon="1" loadImmediate="false" itemID="55b988a7-000002fe" lastModified="1438222503"/>
+          <Include href="nailiya_skill_fx1_1.xml" itemIcon="1" loadImmediate="false" itemID="557fdd6e-00000420" lastModified="1438255884"/>
+          <Include href="nailiya_skill_fx1_2.xml" itemIcon="1" loadImmediate="false" itemID="557fdd6b-0000041f" lastModified="1438232192"/>
+          <Include href="nailiya_skill_fx2_1.xml" itemIcon="1" loadImmediate="false" itemID="557fdd7f-00000421" lastModified="1438255899"/>
+          <Include href="nailiya_skill_fx2_2.xml" itemIcon="1" loadImmediate="false" itemID="557fe1ca-000007ec" lastModified="1438232266"/>
+          <Include href="nailiya_skill_fx3_2.xml" itemIcon="1" loadImmediate="false" itemID="557fe1d1-00000808" lastModified="1438255916"/>
+          <Include href="nailiya_skill_fx3_3.xml" itemIcon="1" loadImmediate="false" itemID="557fdd88-00000422" lastModified="1438255909"/>
+          <Include href="nailiya_skill_part1_2.xml" itemIcon="1" loadImmediate="false" itemID="557ea43a-00001704" lastModified="1438255884"/>
+          <Include href="nailiya_skill_part2_2.xml" itemIcon="1" loadImmediate="false" itemID="557ea4f1-00001780" lastModified="1438255884"/>
+          <Include href="nailiya_skill_part3_3.xml" itemIcon="1" loadImmediate="false" itemID="55800eb0-00001c9f" lastModified="1438255884"/>
+          <Include href="use/ailiya_attact_fx.xml" itemIcon="1" loadImmediate="false" itemID="54abbad9-00000245" lastModified="1421404925"/>
+          <Include href="use/ass.xml" itemIcon="1" loadImmediate="false" itemID="5513abb5-00000c94" lastModified="1427352501"/>
+          <Include href="use/f1.xml" itemIcon="1" loadImmediate="false" itemID="546330fb-00000509" lastModified="1438254359"/>
+          <Include href="use/f2.xml" itemIcon="1" loadImmediate="false" itemID="546330f1-00000504" lastModified="1438257246"/>
+          <Include href="use/f3.xml" itemIcon="1" loadImmediate="false" itemID="546330df-000004ff" lastModified="1438254398"/>
+          <Include href="use/f4.xml" itemIcon="1" loadImmediate="false" itemID="546330ce-000004fa" lastModified="1438254387"/>
+          <Include href="use/f5.xml" itemIcon="1" loadImmediate="false" itemID="546330c1-000004f5" lastModified="1438254405"/>
+          <Include href="use/face.xml" itemIcon="1" loadImmediate="false" itemID="546330b2-000004f0" lastModified="1438254000"/>
+          <Include href="use/face_attact.xml" itemIcon="1" loadImmediate="false" itemID="5464c693-00000592" lastModified="1438253945"/>
+          <Include href="use/face_behite.xml" itemIcon="1" loadImmediate="false" itemID="54656b17-000002ba" lastModified="1438253932"/>
+          <Include href="use/face_win.xml" itemIcon="1" loadImmediate="false" itemID="54659b98-00000805" lastModified="1438253980"/>
+          <Include href="use/face_zhayan.xml" itemIcon="1" loadImmediate="false" itemID="54633c80-0000078d" lastModified="1438253890"/>
+          <Include href="use/jian.xml" itemIcon="1" loadImmediate="false" itemID="546330a1-000004eb" lastModified="1427271407"/>
+          <Include href="use/jian_1.xml" itemIcon="1" loadImmediate="false" itemID="54657ec2-000005b6" lastModified="1427350888"/>
+          <Include href="use/jian_2.xml" itemIcon="1" loadImmediate="false" itemID="546595e9-000006c0" lastModified="1427352106"/>
+          <Include href="use/jian_n.xml" itemIcon="1" loadImmediate="false" itemID="5513f10d-00001fd7" lastModified="1427370612"/>
+          <Include href="use/jian2.xml" itemIcon="1" loadImmediate="false" itemID="55b98830-000002f0" lastModified="1438256252"/>
+          <Include href="use/jian3.xml" itemIcon="1" loadImmediate="false" itemID="54659ac1-000007f4" lastModified="1415944976"/>
+          <Include href="use/jian22.xml" itemIcon="1" loadImmediate="false" itemID="55ba0ec4-0000163e" lastModified="1438256875"/>
+          <Include href="use/jiao1.xml" itemIcon="1" loadImmediate="false" itemID="55127202-00000359" lastModified="1427272194"/>
+          <Include href="use/l_dt.xml" itemIcon="1" loadImmediate="false" itemID="54633096-000004e6" lastModified="1438254042"/>
+          <Include href="use/l_gb.xml" itemIcon="1" loadImmediate="false" itemID="54633089-000004e1" lastModified="1438254440"/>
+          <Include href="use/l_gb2.xml" itemIcon="1" loadImmediate="false" itemID="54633076-000004dc" lastModified="1427271383"/>
+          <Include href="use/l_jiao.xml" itemIcon="1" loadImmediate="false" itemID="54633068-000004d7" lastModified="1427273149"/>
+          <Include href="use/l_tui.xml" itemIcon="1" loadImmediate="false" itemID="54633056-000004d2" lastModified="1427273129"/>
+          <Include href="use/lj.xml" itemIcon="1" loadImmediate="false" itemID="551275d7-0000038a" lastModified="1427273175"/>
+          <Include href="use/pf1.xml" itemIcon="1" loadImmediate="false" itemID="55127a12-00000452" lastModified="1433139091"/>
+          <Include href="use/pf2.xml" itemIcon="1" loadImmediate="false" itemID="55127ac9-00000484" lastModified="1433138690"/>
+          <Include href="use/q3.xml" itemIcon="1" loadImmediate="false" itemID="55127873-00000427" lastModified="1427273848"/>
+          <Include href="use/r_dt.xml" itemIcon="1" loadImmediate="false" itemID="54633039-000004cd" lastModified="1438254057"/>
+          <Include href="use/r_gb.xml" itemIcon="1" loadImmediate="false" itemID="54633029-000004c8" lastModified="1438254096"/>
+          <Include href="use/r_gb2.xml" itemIcon="1" loadImmediate="false" itemID="54633019-000004c3" lastModified="1427270455"/>
+          <Include href="use/r_jiao.xml" itemIcon="1" loadImmediate="false" itemID="54633009-000004be" lastModified="1427272169"/>
+          <Include href="use/r_shou.xml" itemIcon="1" loadImmediate="false" itemID="54632ff9-000004b9" lastModified="1427270405"/>
+          <Include href="use/r_shou2.xml" itemIcon="1" loadImmediate="false" itemID="5513f6c7-0000243c" lastModified="1427422770"/>
+          <Include href="use/r_tui.xml" itemIcon="1" loadImmediate="false" itemID="54632fe8-000004b4" lastModified="1427272386"/>
+          <Include href="use/s.xml" itemIcon="1" loadImmediate="false" itemID="5514bdaa-00000287" lastModified="1427422755"/>
+          <Include href="use/sa.xml" itemIcon="1" loadImmediate="false" itemID="5513aa1f-00000bda" lastModified="1427352096"/>
+          <Include href="use/Shadow.xml" itemIcon="1" loadImmediate="false" itemID="544ca631-000000f5" lastModified="1414311992"/>
+          <Include href="use/shenti.xml" itemIcon="1" loadImmediate="false" itemID="54632fd8-000004af" lastModified="1438254235"/>
+          <Include href="use/shou_win.xml" itemIcon="1" loadImmediate="false" itemID="54659e6a-00000815" lastModified="1425896037"/>
+          <Include href="use/sl.xml" itemIcon="1" loadImmediate="false" itemID="545c7efc-000003a1" lastModified="1415347964"/>
+          <Include href="use/ss.xml" itemIcon="1" loadImmediate="false" itemID="54abbaf9-00000247" lastModified="1420540665"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1">
+               <layers>
+                    <DOMLayer name="图层 11" color="#FF800A" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_stand" centerPoint3DX="21.15" centerPoint3DY="666.2">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="21.15" y="-53.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_run" centerPoint3DX="34.25" centerPoint3DY="659.5">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_attact" centerPoint3DX="34.25" centerPoint3DY="659.5">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_skill7292" centerPoint3DX="21.15" centerPoint3DY="666.2">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="21.15" y="-53.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_behite" centerPoint3DX="21.15" centerPoint3DY="666.2">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="21.15" y="-53.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_dead" centerPoint3DX="34.25" centerPoint3DY="659.5">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_victory_1" centerPoint3DX="34.25" centerPoint3DY="659.5">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_victory_2" selected="true" centerPoint3DX="27" centerPoint3DY="655.9">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="27" y="-64.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="atfx2" selected="true" symbolType="graphic" centerPoint3DX="-17.3" centerPoint3DY="701.65" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.5" d="0.5" ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-34.6" y="-36.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_attack2" selected="true" centerPoint3DX="21.15" centerPoint3DY="666.2">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="21.15" y="-53.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx1_1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-39.75" y="-46.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx1_2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="41.1" y="-73.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx2_1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-44.3" y="-70.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx2_2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="98.9" y="-41.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx3_3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="3.25" y="-63.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="nailiya_skill_fx3_2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.35" y="-54.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_stand_n" centerPoint3DY="666.2">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-53.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ailiya_run_n" centerPoint3DX="22" centerPoint3DY="657.85">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22" y="-62.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="368341" publishTime="1427774761"/>
+          <PublishItem publishSize="362641" publishTime="1427422773"/>
+          <PublishItem publishSize="362642" publishTime="1427422662"/>
+          <PublishItem publishSize="362490" publishTime="1427372476"/>
+          <PublishItem publishSize="362489" publishTime="1427372450"/>
+          <PublishItem publishSize="362511" publishTime="1427372263"/>
+          <PublishItem publishSize="361851" publishTime="1427371601"/>
+          <PublishItem publishSize="361858" publishTime="1427371562"/>
+          <PublishItem publishSize="361833" publishTime="1427371512"/>
+          <PublishItem publishSize="361734" publishTime="1427371401"/>
+          <PublishItem publishSize="361695" publishTime="1427371363"/>
+          <PublishItem publishSize="361695" publishTime="1427371304"/>
+          <PublishItem publishSize="361695" publishTime="1427371283"/>
+          <PublishItem publishSize="361693" publishTime="1427371246"/>
+          <PublishItem publishSize="361709" publishTime="1427371193"/>
+          <PublishItem publishSize="340618" publishTime="1427371047"/>
+          <PublishItem publishSize="361706" publishTime="1427371007"/>
+          <PublishItem publishSize="361709" publishTime="1427370873"/>
+          <PublishItem publishSize="361728" publishTime="1427370802"/>
+          <PublishItem publishSize="361699" publishTime="1427370780"/>
+     </publishHistory>
+</DOMDocument>

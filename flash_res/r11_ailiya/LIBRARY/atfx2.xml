@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="atfx2" itemID="557ebc6d-000018c6" symbolType="graphic" lastModified="1438327130">
+  <timeline>
+    <DOMTimeline name="atfx2">
+      <layers>
+        <DOMLayer name="attack" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_attack" selected="true" centerPoint3DX="-231.6" centerPoint3DY="-45.45">
+                  <matrix>
+                    <Matrix a="2.8389892578125" tx="-373.55" ty="-95.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/attact22_00.png">
+                  <matrix>
+                    <Matrix tx="-162.6" ty="-83.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

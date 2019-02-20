@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Clight_fx" itemID="54313d9f-0000159c" symbolType="graphic" lastModified="1435894470">
+  <timeline>
+    <DOMTimeline name="Clight_fx" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-186&lt;/guideline&gt;&lt;guideline direction="h"&gt;-87&lt;/guideline&gt;&lt;guideline direction="v"&gt;-96&lt;/guideline&gt;&lt;guideline direction="v"&gt;144&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss01" selected="true" symbolType="graphic" centerPoint3DX="6.5" centerPoint3DY="-82.25" loop="loop">
+                  <matrix>
+                    <Matrix a="2.53399658203125" d="2.53399658203125" tx="-329.75" ty="-253.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss02" symbolType="graphic" centerPoint3DX="36.5" centerPoint3DY="-82.5" loop="loop">
+                  <matrix>
+                    <Matrix a="2.53399658203125" d="2.53399658203125" tx="-301.75" ty="-257.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss03" symbolType="graphic" centerPoint3DX="38.05" centerPoint3DY="-82.65" loop="loop">
+                  <matrix>
+                    <Matrix a="2.68548583984375" d="2.68548583984375" tx="-351.25" ty="-290.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss04" symbolType="graphic" centerPoint3DX="46.25" centerPoint3DY="-82.6" loop="loop">
+                  <matrix>
+                    <Matrix a="2.68595886230469" d="2.68595886230469" tx="-331.95" ty="-290.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss05" symbolType="graphic" centerPoint3DX="72.3" centerPoint3DY="-99.25" loop="loop">
+                  <matrix>
+                    <Matrix a="2.68595886230469" d="2.68595886230469" tx="-251.5" ty="-275.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss06" symbolType="graphic" centerPoint3DX="60.6" centerPoint3DY="-118.75" loop="loop">
+                  <matrix>
+                    <Matrix a="2.68595886230469" d="2.68595886230469" tx="-217.8" ty="-263.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/ss07" symbolType="graphic" centerPoint3DX="24.5" centerPoint3DY="-134.2" loop="loop">
+                  <matrix>
+                    <Matrix a="2.68595886230469" d="2.68595886230469" tx="-179.35" ty="-215.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

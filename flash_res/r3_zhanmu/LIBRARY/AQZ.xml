@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AQZ" itemID="54df22fe-00003910" symbolType="graphic" lastModified="1425350762">
+  <timeline>
+    <DOMTimeline name="AQZ">
+      <layers>
+        <DOMLayer name="attack" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_attack" centerPoint3DX="122.05" centerPoint3DY="-87.1">
+                  <matrix>
+                    <Matrix a="2.8599853515625" d="2" tx="-20.95" ty="-187.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hurt" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_hurt" centerPoint3DX="1.35" centerPoint3DY="-81.65">
+                  <matrix>
+                    <Matrix a="1.69999694824219" d="1.69999694824219" tx="-83.65" ty="-166.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="JM_Attack_3" selected="true" symbolType="graphic" centerPoint3DX="164.15" centerPoint3DY="-63.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.918991088867188" d="0.918991088867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="178.6" y="-69.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

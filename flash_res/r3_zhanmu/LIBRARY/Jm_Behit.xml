@@ -1,0 +1,1368 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Jm_Behit" itemID="5431f806-0000005b" symbolType="graphic" lastModified="1438067066">
+  <timeline>
+    <DOMTimeline name="Jm_Behit" currentFrame="16">
+      <layers>
+        <DOMLayer name="Rs" color="#808080" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.968521118164063" b="-0.0517730712890625" c="0.0140838623046875" d="1.03349304199219" tx="-53.25" ty="-67"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93414306640625" b="-0.106063842773438" c="0.03253173828125" d="1.06675720214844" tx="-67.4" ty="-64.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.934112548828125" b="-0.103286743164063" c="0.0290985107421875" d="1.06671142578125" tx="-67.4" ty="-64.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93414306640625" b="-0.106063842773438" c="0.03253173828125" d="1.06675720214844" tx="-67.4" ty="-64.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.958587646484375" b="0.084259033203125" c="-0.141326904296875" d="1.03118896484375" tx="-62.65" ty="-65.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.943649291992188" b="0.282302856445313" c="-0.307815551757813" d="0.96759033203125" tx="-57.95" ty="-65.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.968780517578125" b="0.185440063476563" c="-0.203216552734375" d="0.989959716796875" tx="-55.8" ty="-68.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.972564697265625" b="0.168014526367188" c="-0.184600830078125" d="0.992080688476563" tx="-54.45" ty="-68.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rs" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-39.2" ty="-69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Head" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.85382080078125" b="-0.445358276367188" c="0.464248657226563" d="0.927627563476563" tx="-34.2" ty="-111.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5318603515625" b="-0.761154174804688" c="0.864822387695313" d="0.642486572265625" tx="-71.6" ty="-111.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.529937744140625" b="-0.760772705078125" c="0.863616943359375" d="0.641250610351563" tx="-71.6" ty="-111.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5318603515625" b="-0.761154174804688" c="0.864822387695313" d="0.642486572265625" tx="-71.6" ty="-111.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.582565307617188" b="-0.755691528320313" c="0.8170166015625" d="0.652755737304688" tx="-65.1" ty="-112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.638534545898438" b="-0.747116088867188" c="0.770370483398438" d="0.6646728515625" tx="-58.55" ty="-112.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.758697509765625" b="-0.62762451171875" c="0.641983032226563" d="0.782806396484375" tx="-46.2" ty="-112.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head_1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.793045043945313" b="-0.583145141601563" c="0.5947265625" d="0.816055297851563" tx="-42.1" ty="-112.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Head" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="3.3" ty="-111.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Rh" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.92059326171875" b="-0.354110717773438" c="0.298019409179688" d="0.972274780273438" tx="-41.75" ty="-23.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.723068237304688" b="-0.65380859375" c="0.582107543945313" d="0.856643676757813" tx="-48.8" ty="-23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.721969604492188" b="-0.652679443359375" c="0.579910278320313" d="0.856246948242188" tx="-48.8" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.723068237304688" b="-0.65380859375" c="0.582107543945313" d="0.856643676757813" tx="-48.8" ty="-23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.878753662109375" b="-0.438934326171875" c="0.375228881835938" d="0.949371337890625" tx="-54.65" ty="-21.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.974365234375" b="-0.18780517578125" c="0.159912109375" d="0.9954833984375" tx="-60.55" ty="-19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.974365234375" b="-0.18780517578125" c="0.159912109375" d="0.9954833984375" tx="-60.55" ty="-19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.977310180664063" b="-0.17242431640625" c="0.145065307617188" d="0.996566772460938" tx="-58.35" ty="-19.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-34.7" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Rr" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.954971313476563" b="-0.212310791015625" c="0.161300659179688" d="1.01237487792969" tx="-56.2" ty="-43.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.866714477539063" b="-0.407974243164063" c="0.33160400390625" d="0.997665405273438" tx="-69.45" ty="-38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.866485595703125" b="-0.405624389648438" c="0.329818725585938" d="0.9971923828125" tx="-69.45" ty="-38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.866714477539063" b="-0.407974243164063" c="0.33160400390625" d="0.997665405273438" tx="-69.45" ty="-38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.968505859375" b="-0.0933685302734375" c="0.0229949951171875" d="1.03123474121094" tx="-68.55" ty="-39.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9586181640625" b="0.24188232421875" c="-0.273193359375" d="0.974227905273438" tx="-67.8" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9586181640625" b="0.24188232421875" c="-0.273193359375" d="0.974227905273438" tx="-67.8" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.964279174804688" b="0.219375610351563" c="-0.249282836914063" d="0.978790283203125" tx="-65.75" ty="-41.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-43" ty="-47.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.952407836914063" b="-0.202728271484375" c="0.263229370117188" d="0.994735717773438" tx="-2.15" ty="-32.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.866302490234375" b="-0.38690185546875" c="0.52947998046875" d="0.917861938476563" tx="-4.8" ty="-37.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.865371704101563" b="-0.386138916015625" c="0.526718139648438" d="0.917694091796875" tx="-4.8" ty="-37.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.866302490234375" b="-0.38690185546875" c="0.52947998046875" d="0.917861938476563" tx="-4.8" ty="-37.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.891708374023438" b="-0.374908447265625" c="0.462371826171875" d="0.925506591796875" tx="-3.65" ty="-37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.91851806640625" b="-0.364334106445313" c="0.39691162109375" d="0.931259155273438" tx="-2.55" ty="-36.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.944900512695313" b="-0.293960571289063" c="0.317138671875" d="0.957687377929688" tx="-2" ty="-35.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.952239990234375" b="-0.26922607421875" c="0.290740966796875" d="0.964309692382813" tx="-1.85" ty="-34.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/P" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-27.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.913070678710938" b="-0.311264038085938" c="0.359512329101563" d="0.972061157226563" tx="-19.25" ty="-66.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.734481811523438" b="-0.572525024414063" c="0.700958251953125" d="0.815093994140625" tx="-34.55" ty="-68.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.733993530273438" b="-0.570724487304688" c="0.6988525390625" d="0.814544677734375" tx="-34.55" ty="-68.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.734481811523438" b="-0.572525024414063" c="0.700958251953125" d="0.815093994140625" tx="-34.55" ty="-68.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.772674560546875" b="-0.5631103515625" c="0.640487670898438" d="0.824508666992188" tx="-31.1" ty="-68.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.8135986328125" b="-0.553314208984375" c="0.58245849609375" d="0.832962036132813" tx="-27.7" ty="-69.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.875869750976563" b="-0.452484130859375" c="0.47259521484375" d="0.894607543945313" tx="-22.95" ty="-68"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.893081665039063" b="-0.41729736328125" c="0.435272216796875" d="0.910842895507813" tx="-21.3" ty="-67.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Body" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-4" ty="-64"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Lh" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96307373046875" b="0.379898071289063" c="-0.326858520507813" d="0.908828735351563" tx="34.65" ty="-64.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.784469604492188" b="0.73193359375" c="-0.594894409179688" d="0.719619750976563" tx="26.9" ty="-72.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.782196044921875" b="0.731796264648438" c="-0.5941162109375" d="0.718292236328125" tx="26.9" ty="-72.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.784469604492188" b="0.73193359375" c="-0.594894409179688" d="0.719619750976563" tx="26.9" ty="-72.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.812088012695313" b="0.654617309570313" c="-0.574050903320313" d="0.76593017578125" tx="28.95" ty="-74.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.834030151367188" b="0.581253051757813" c="-0.552780151367188" d="0.813690185546875" tx="30.95" ty="-76.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.894851684570313" b="0.472366333007813" c="-0.452301025390625" d="0.875747680664063" tx="33.25" ty="-72.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.910964965820313" b="0.435226440429688" c="-0.417221069335938" d="0.8929443359375" tx="34" ty="-71.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lh" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="42.5" ty="-56.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sord" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.946853637695313" b="0.412811279296875" c="-0.35174560546875" d="0.902236938476563" tx="7.75" ty="-120.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.725738525390625" b="0.784011840820313" c="-0.636627197265625" d="0.690093994140625" tx="17.75" ty="-143.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.725341796875" b="0.782012939453125" c="-0.634872436523438" d="0.689590454101563" tx="17.7" ty="-143.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.725738525390625" b="0.784011840820313" c="-0.636627197265625" d="0.690093994140625" tx="17.75" ty="-143.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.807357788085938" b="0.656051635742188" c="-0.569107055664063" d="0.773483276367188" tx="12.85" ty="-142.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.87078857421875" b="0.522689819335938" c="-0.49285888671875" d="0.852493286132813" tx="7.9" ty="-141.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.91802978515625" b="0.423995971679688" c="-0.40185546875" d="0.900985717773438" tx="5.85" ty="-132.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.931732177734375" b="0.387527465820313" c="-0.3701171875" d="0.914459228515625" tx="5.2" ty="-129.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Sord" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-2.2" ty="-97.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Lr" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.873687744140625" b="-0.403396606445313" c="0.43157958984375" d="0.944061279296875" tx="2.95" ty="-67.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.602005004882813" b="-0.705001831054688" c="0.817535400390625" d="0.703628540039063" tx="-13.4" ty="-76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5997314453125" b="-0.704940795898438" c="0.817230224609375" d="0.701263427734375" tx="-13.45" ty="-76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.602005004882813" b="-0.705001831054688" c="0.817535400390625" d="0.703628540039063" tx="-13.4" ty="-76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.648880004882813" b="-0.698410034179688" c="0.7640380859375" d="0.71502685546875" tx="-9.45" ty="-76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.700454711914063" b="-0.689178466796875" c="0.714523315429688" d="0.724563598632813" tx="-5.5" ty="-76.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.80059814453125" b="-0.573104858398438" c="0.589508056640625" d="0.82318115234375" tx="-0.5" ty="-72.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.829421997070313" b="-0.530166625976563" c="0.543960571289063" d="0.850906372070313" tx="1.1" ty="-71.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lr" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="19.3" ty="-58.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Lf" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.97625732421875" b="-0.120635986328125" c="0.191314697265625" d="1.00228881835938" tx="21.15" ty="-20.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.938003540039063" b="-0.239715576171875" c="0.388580322265625" d="0.966812133789063" tx="21.8" ty="-25.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.937469482421875" b="-0.238677978515625" c="0.386734008789063" d="0.966293334960938" tx="21.85" ty="-25.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.938003540039063" b="-0.239715576171875" c="0.388580322265625" d="0.966812133789063" tx="21.8" ty="-25.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.953369140625" b="-0.225479125976563" c="0.317230224609375" d="0.973602294921875" tx="22.1" ty="-25.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.969009399414063" b="-0.215347290039063" c="0.249496459960938" d="0.976547241210938" tx="22.35" ty="-24.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.978408813476563" b="-0.172744750976563" c="0.197265625" d="0.986175537109375" tx="21.95" ty="-22.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.981216430664063" b="-0.156295776367188" c="0.17938232421875" d="0.988494873046875" tx="21.85" ty="-22.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Lf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="20.5" ty="-15.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Rf" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999923706054688" b="-0.0097808837890625" c="0.087890625" d="1.0015869140625" tx="-16.85" ty="-12.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.0258941650390625" c="0.177474975585938" d="0.995742797851563" tx="-16.55" ty="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.0228424072265625" c="0.176116943359375" d="0.995391845703125" tx="-16.55" ty="-12.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.0258941650390625" c="0.177474975585938" d="0.995742797851563" tx="-16.55" ty="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999908447265625" b="-0.009796142578125" c="0.10540771484375" d="1.00015258789063" tx="-17.05" ty="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0349884033203125" tx="-17.7" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.026641845703125" d="1.00006103515625" tx="-17.6" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0224761962890625" d="1.00006103515625" tx="-17.55" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Rf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-17.2" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Pf" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.873703002929688" b="-0.40338134765625" c="0.742919921875" d="0.858932495117188" tx="-17.7" ty="-49.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.602081298828125" b="-0.704940795898438" c="1.26164245605469" d="0.183670043945313" tx="-9.85" ty="-47.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.599746704101563" b="-0.704925537109375" c="1.26109313964844" d="0.183120727539063" tx="-9.9" ty="-47.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.602081298828125" b="-0.704940795898438" c="1.26164245605469" d="0.183670043945313" tx="-9.85" ty="-47.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.52398681640625" b="-0.796524047851563" c="1.29344177246094" d="-0.0514678955078125" tx="-4.35" ty="-53.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.4346923828125" b="-0.881271362304688" c="1.28062438964844" d="-0.29583740234375" tx="1.25" ty="-60.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.780029296875" b="-0.595016479492188" c="1.00390625" d="0.535446166992188" tx="-20.05" ty="-45.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.900787353515625" b="-0.431060791015625" c="0.690475463867188" d="0.864959716796875" tx="-28.8" ty="-47.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/Pf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-25.5" ty="-52.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shadow/Shadow" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.82427978515625" d="0.865341186523438" tx="-0.7" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

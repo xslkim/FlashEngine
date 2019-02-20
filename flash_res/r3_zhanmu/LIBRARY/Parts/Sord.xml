@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Parts/Sord" itemID="5430bbcf-000001de" symbolType="graphic" lastModified="1412479952">
+  <timeline>
+    <DOMTimeline name="Sord">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Orginal/Jm_12.png">
+                  <matrix>
+                    <Matrix a="0.865310668945313" b="0.501220703125" c="-0.501220703125" d="0.865310668945313" tx="-70.35" ty="-73.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Cl_fx" itemID="542f5cd9-000002fe" symbolType="graphic" lastModified="1435895072">
+  <timeline>
+    <DOMTimeline name="Cl_fx" currentFrame="6" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-333&lt;/guideline&gt;&lt;guideline direction="h"&gt;-30&lt;/guideline&gt;&lt;guideline direction="v"&gt;358&lt;/guideline&gt;&lt;guideline direction="v"&gt;-26&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2 复制" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y01" symbolType="graphic" centerPoint3DX="149.4" centerPoint3DY="-180.3" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08453369140625" d="4.08453369140625" tx="149.4" ty="-180.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y02" symbolType="graphic" centerPoint3DX="149.8" centerPoint3DY="-178.85" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08453369140625" d="4.08453369140625" tx="149.8" ty="-178.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y03" selected="true" symbolType="graphic" centerPoint3DX="150.05" centerPoint3DY="-179.8" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08453369140625" d="4.08453369140625" tx="150.05" ty="-179.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y04" symbolType="graphic" centerPoint3DX="151.8" centerPoint3DY="-178.65" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08453369140625" d="4.08453369140625" tx="151.8" ty="-178.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y05" symbolType="graphic" centerPoint3DX="157.15" centerPoint3DY="-180.25" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08453369140625" d="4.08453369140625" tx="157.55" ty="-180.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/y06" symbolType="graphic" centerPoint3DX="170.9" centerPoint3DY="-184.1" loop="loop">
+                  <matrix>
+                    <Matrix a="4.08465576171875" d="4.08465576171875" tx="-408.7" ty="-687.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

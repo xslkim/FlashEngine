@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AZZ" itemID="54df22e9-0000383a" symbolType="graphic" lastModified="1423909810">
+  <timeline>
+    <DOMTimeline name="AZZ" currentFrame="40">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Jm_Die" symbolType="graphic" centerPoint3DX="38.8" centerPoint3DY="-115" loop="loop">
+                  <matrix>
+                    <Matrix a="0.918991088867188" d="0.918991088867188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="612.25" y="346.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

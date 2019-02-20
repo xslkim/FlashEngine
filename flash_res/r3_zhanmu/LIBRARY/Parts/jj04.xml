@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Parts/jj04" itemID="559606f7-00000afd" symbolType="graphic" lastModified="1435895547">
+  <timeline>
+    <DOMTimeline name="jj04">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Orginal/ZMZ_0027_CC_00002.png">
+                  <matrix>
+                    <Matrix d="1.00035095214844" tx="-160.5" ty="-26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="160.5" y="26"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

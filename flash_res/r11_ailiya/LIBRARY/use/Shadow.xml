@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/Shadow" itemID="544ca631-000000f5" symbolType="graphic" lastModified="1414311992">
+  <timeline>
+    <DOMTimeline name="Shadow">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="png/Shadow.png">
+                  <matrix>
+                    <Matrix a="1.80999755859375" d="1.80999755859375" tx="-105.85" ty="-28.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.5" y="15.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

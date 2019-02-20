@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/LittleAsh_fx" itemID="54320422-00000309" symbolType="graphic" lastModified="1426312601">
+  <timeline>
+    <DOMTimeline name="LittleAsh_fx" currentFrame="6">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Ash0001.png">
+                  <matrix>
+                    <Matrix a="4.99986267089844" d="4.99986267089844" tx="2691.45" ty="2478.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090.05" y="792.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Ash0002.png">
+                  <matrix>
+                    <Matrix a="4.99993896484375" d="4.99993896484375" tx="2691.95" ty="2472.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090.05" y="792.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Ash0003.png">
+                  <matrix>
+                    <Matrix a="5" d="5" tx="2686" ty="2468.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090.05" y="792.6"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Ash0004.png">
+                  <matrix>
+                    <Matrix a="5" d="5" tx="2688.95" ty="2465.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090.05" y="792.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Ash0005.png">
+                  <matrix>
+                    <Matrix a="5" d="5" tx="2690.95" ty="2467.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090.05" y="792.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="32" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

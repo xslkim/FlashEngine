@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="nailiya_skill_fx2_1" itemID="557fdd7f-00000421" symbolType="graphic" lastModified="1438255899">
+  <timeline>
+    <DOMTimeline name="nailiya_skill_fx2_1" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;1&lt;/guideline&gt;&lt;guideline direction="v"&gt;300&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="png/xy2_00.png">
+                  <matrix>
+                    <Matrix tx="-139.5" ty="-151.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

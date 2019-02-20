@@ -1,0 +1,226 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" objectsSnapTo="false" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Need_fx" itemID="5430f696-00000bc0" isExpanded="true"/>
+          <DOMFolderItem name="Orginal" itemID="5430b68f-00000138"/>
+          <DOMFolderItem name="Parts" itemID="5430b6a1-0000013c"/>
+          <DOMFolderItem name="Shadow" itemID="54829c9f-000002a9"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Orginal/Ash.png" itemID="54a1414b-00000697" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash.png" sourceLastImported="1421836057" externalFileCRC32="821656656" externalFileSize="5553" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash.png" bitmapDataHRef="M 16 1412490590.dat" frameRight="2520" frameBottom="1900"/>
+          <DOMBitmapItem name="Orginal/Ash0001.png" itemID="54a1414b-00000698" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash0001.png" sourceLastImported="1421836057" externalFileCRC32="933081752" externalFileSize="1035" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash0001.png" bitmapDataHRef="M 32 1412563971.dat" frameRight="1320" frameBottom="560"/>
+          <DOMBitmapItem name="Orginal/Ash0002.png" itemID="54a1414b-00000699" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash0002.png" sourceLastImported="1421836057" externalFileCRC32="560067583" externalFileSize="1546" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash0002.png" bitmapDataHRef="M 33 1412563971.dat" frameRight="1380" frameBottom="540"/>
+          <DOMBitmapItem name="Orginal/Ash0003.png" itemID="54a1414b-0000069a" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash0003.png" sourceLastImported="1421836057" externalFileCRC32="2278211428" externalFileSize="1891" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash0003.png" bitmapDataHRef="M 34 1412563971.dat" frameRight="1500" frameBottom="660"/>
+          <DOMBitmapItem name="Orginal/Ash0004.png" itemID="54a1414b-0000069b" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash0004.png" sourceLastImported="1421836057" externalFileCRC32="2779811289" externalFileSize="708" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash0004.png" bitmapDataHRef="M 35 1412563971.dat" frameRight="1460" frameBottom="520"/>
+          <DOMBitmapItem name="Orginal/Ash0005.png" itemID="54a1414b-0000069c" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash0005.png" sourceLastImported="1421836057" externalFileCRC32="3288908954" externalFileSize="394" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash0005.png" bitmapDataHRef="M 36 1412563971.dat" frameRight="1300" frameBottom="500"/>
+          <DOMBitmapItem name="Orginal/Ash1.png" itemID="54a1414b-0000069d" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash1.png" sourceLastImported="1421836057" externalFileCRC32="835147383" externalFileSize="11235" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash1.png" bitmapDataHRef="M 17 1412490590.dat" frameRight="4060" frameBottom="2600"/>
+          <DOMBitmapItem name="Orginal/Ash2.png" itemID="54a1414b-0000069e" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash2.png" sourceLastImported="1421836057" externalFileCRC32="824472388" externalFileSize="9374" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash2.png" bitmapDataHRef="M 18 1412490590.dat" frameRight="4060" frameBottom="2420"/>
+          <DOMBitmapItem name="Orginal/Ash3.png" itemID="54a1414b-0000069f" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash3.png" sourceLastImported="1421836057" externalFileCRC32="1464846832" externalFileSize="11392" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash3.png" bitmapDataHRef="M 19 1412490590.dat" frameRight="3840" frameBottom="2480"/>
+          <DOMBitmapItem name="Orginal/Ash4.png" itemID="54a1414b-000006a0" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash4.png" sourceLastImported="1421836057" externalFileCRC32="2532744644" externalFileSize="8526" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash4.png" bitmapDataHRef="M 20 1412490590.dat" frameRight="4040" frameBottom="2020"/>
+          <DOMBitmapItem name="Orginal/Ash5.png" itemID="54a1414b-000006a1" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Ash5.png" sourceLastImported="1421836057" externalFileCRC32="3172548428" externalFileSize="1986" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Ash5.png" bitmapDataHRef="M 21 1412490590.dat" frameRight="3540" frameBottom="1620"/>
+          <DOMBitmapItem name="Orginal/Halfsord.png" itemID="54a1414b-000006a9" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Halfsord.png" sourceLastImported="1421836057" externalFileCRC32="3977170635" externalFileSize="5527" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Halfsord.png" bitmapDataHRef="M 31 1412563797.dat" frameRight="1060" frameBottom="1640"/>
+          <DOMBitmapItem name="Orginal/Hb.png" itemID="54a1414b-000006aa" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Hb.png" sourceLastImported="1421836057" externalFileCRC32="3557842735" externalFileSize="508" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Hb.png" bitmapDataHRef="M 53 1412660944.dat" frameRight="200" frameBottom="240"/>
+          <DOMBitmapItem name="Orginal/hy.png" itemID="54a1414b-000006ab" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/hy.png" sourceLastImported="1421836057" externalFileCRC32="1693800606" externalFileSize="31971" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/hy.png" bitmapDataHRef="M 22 1412499794.dat" frameRight="9700" frameBottom="1600"/>
+          <DOMBitmapItem name="Orginal/Hyx.png" itemID="54a1414b-000006ac" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Hyx.png" sourceLastImported="1421836057" externalFileCRC32="812437542" externalFileSize="39632" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Hyx.png" bitmapDataHRef="M 23 1412500428.dat" frameRight="5700" frameBottom="2640"/>
+          <DOMBitmapItem name="Orginal/Jm_03.png" itemID="54a1414b-000006ad" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_03.png" sourceLastImported="1421836057" externalFileCRC32="2304046963" externalFileSize="17157" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_03.png" bitmapDataHRef="M 1 1412478471.dat" frameRight="1960" frameBottom="1880"/>
+          <DOMBitmapItem name="Orginal/Jm_03_1.png" itemID="54a1414b-000006ae" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_03_1.png" sourceLastImported="1421836057" externalFileCRC32="3926416199" externalFileSize="18171" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_03_1.png" bitmapDataHRef="M 49 1414748701.dat" frameRight="1960" frameBottom="1880"/>
+          <DOMBitmapItem name="Orginal/Jm_03_3.png" itemID="54a1414b-000006af" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_03_3.png" sourceLastImported="1421836057" externalFileCRC32="1224276308" externalFileSize="17464" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_03_3.png" bitmapDataHRef="M 50 1414748701.dat" frameRight="1960" frameBottom="1880"/>
+          <DOMBitmapItem name="Orginal/Jm_06.png" itemID="54a1414b-000006b0" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_06.png" sourceLastImported="1421836057" externalFileCRC32="643765845" externalFileSize="4605" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_06.png" bitmapDataHRef="M 2 1412478471.dat" frameRight="1040" frameBottom="1020"/>
+          <DOMBitmapItem name="Orginal/Jm_09.png" itemID="54a1414b-000006b1" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_09.png" sourceLastImported="1421836057" externalFileCRC32="865521432" externalFileSize="2238" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_09.png" bitmapDataHRef="M 3 1412478471.dat" frameRight="820" frameBottom="900"/>
+          <DOMBitmapItem name="Orginal/Jm_12.png" itemID="54a1414b-000006b2" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_12.png" sourceLastImported="1421836057" externalFileCRC32="471777190" externalFileSize="11750" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_12.png" bitmapDataHRef="M 4 1412478471.dat" frameRight="3900" frameBottom="1120"/>
+          <DOMBitmapItem name="Orginal/Jm_19.png" itemID="54a1414b-000006b3" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_19.png" sourceLastImported="1421836057" externalFileCRC32="3291729485" externalFileSize="2716" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_19.png" bitmapDataHRef="M 5 1412478471.dat" frameRight="800" frameBottom="740"/>
+          <DOMBitmapItem name="Orginal/Jm_22.png" itemID="54a1414b-000006b4" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_22.png" sourceLastImported="1421836057" externalFileCRC32="1734281975" externalFileSize="2603" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_22.png" bitmapDataHRef="M 6 1412478471.dat" frameRight="700" frameBottom="840"/>
+          <DOMBitmapItem name="Orginal/Jm_24.png" itemID="54a1414b-000006b5" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_24.png" sourceLastImported="1421836057" externalFileCRC32="3919155125" externalFileSize="5243" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_24.png" bitmapDataHRef="M 7 1412478471.dat" frameRight="1220" frameBottom="760"/>
+          <DOMBitmapItem name="Orginal/Jm_28.png" itemID="54a1414b-000006b6" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_28.png" sourceLastImported="1421836057" externalFileCRC32="2008057325" externalFileSize="3489" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_28.png" bitmapDataHRef="M 8 1412478471.dat" frameRight="680" frameBottom="1000"/>
+          <DOMBitmapItem name="Orginal/Jm_33.png" itemID="54a1414b-000006b7" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_33.png" sourceLastImported="1421836057" externalFileCRC32="1882520582" externalFileSize="3904" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_33.png" bitmapDataHRef="M 9 1412478471.dat" frameRight="940" frameBottom="1100"/>
+          <DOMBitmapItem name="Orginal/Jm_37.png" itemID="54a1414b-000006b8" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_37.png" sourceLastImported="1421836057" externalFileCRC32="639264329" externalFileSize="3263" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_37.png" bitmapDataHRef="M 10 1412478471.dat" frameRight="880" frameBottom="1080"/>
+          <DOMBitmapItem name="Orginal/Jm_40.png" itemID="54a1414b-000006b9" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_40.png" sourceLastImported="1421836057" externalFileCRC32="572595054" externalFileSize="8355" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_40.png" bitmapDataHRef="M 11 1412478471.dat" frameRight="1280" frameBottom="1420"/>
+          <DOMBitmapItem name="Orginal/Jm_43.png" itemID="54a1414b-000006ba" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_43.png" sourceLastImported="1421836057" externalFileCRC32="3587429330" externalFileSize="1313" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_43.png" bitmapDataHRef="M 12 1412478471.dat" frameRight="500" frameBottom="680"/>
+          <DOMBitmapItem name="Orginal/Jm_47.png" itemID="54a1414b-000006bb" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_47.png" sourceLastImported="1421836057" externalFileCRC32="30794252" externalFileSize="1211" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_47.png" bitmapDataHRef="M 13 1412478471.dat" frameRight="560" frameBottom="600"/>
+          <DOMBitmapItem name="Orginal/Jm_53.png" itemID="54a1414b-000006bc" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Jm_53.png" sourceLastImported="1421836057" externalFileCRC32="3005710732" externalFileSize="4979" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Jm_53.png" bitmapDataHRef="M 14 1412478471.dat" frameRight="1940" frameBottom="1500"/>
+          <DOMBitmapItem name="Orginal/Rosr.png" itemID="54a1414b-000006c8" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Rosr.png" sourceLastImported="1421836057" externalFileCRC32="431994492" externalFileSize="3032" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Rosr.png" bitmapDataHRef="M 53 1412657229.dat" frameRight="720" frameBottom="1200"/>
+          <DOMBitmapItem name="Orginal/Shadow.png" itemID="54a1414b-000006c9" sourceExternalFilepath="C:/icefire/美术资源/动画-角色/r3_zhanmu/LIBRARY/Orginal/Shadow.png" sourceLastImported="1421836057" externalFileSize="1664" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/Shadow.png" bitmapDataHRef="M 51 1417845919.dat" frameRight="2340" frameBottom="620"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0000_SL_00011.png" itemID="54bf7533-00000230" sourceExternalFilepath="./LIBRARY/ZMZ_0000_SL_00011.png" sourceLastImported="1421836057" externalFileSize="11232" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0000_SL_00011.png" bitmapDataHRef="M 76 1421833058.dat" frameRight="3600" frameBottom="1460"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0002_SL_00009.png" itemID="54bf7533-00000232" sourceExternalFilepath="./LIBRARY/ZMZ_0002_SL_00009.png" sourceLastImported="1421836057" externalFileSize="36812" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0002_SL_00009.png" bitmapDataHRef="M 78 1421833058.dat" frameRight="4920" frameBottom="2560"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0004_SL_00007.png" itemID="54bf7533-00000234" sourceExternalFilepath="./LIBRARY/ZMZ_0004_SL_00007.png" sourceLastImported="1421836058" externalFileSize="49835" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0004_SL_00007.png" bitmapDataHRef="M 80 1421833058.dat" frameRight="5720" frameBottom="3120"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0008_SL_00003.png" itemID="54bf7533-00000238" sourceExternalFilepath="./LIBRARY/ZMZ_0008_SL_00003.png" sourceLastImported="1421836058" externalFileSize="59409" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0008_SL_00003.png" bitmapDataHRef="M 84 1421833058.dat" frameRight="6680" frameBottom="3680"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0009_SL_00002.png" itemID="54bf7533-00000239" sourceExternalFilepath="./LIBRARY/ZMZ_0009_SL_00002.png" sourceLastImported="1421836058" externalFileSize="59569" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0009_SL_00002.png" bitmapDataHRef="M 85 1421833058.dat" frameRight="6900" frameBottom="3680"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0010_SL_00001.png" itemID="54bf7533-0000023a" sourceExternalFilepath="./LIBRARY/ZMZ_0010_SL_00001.png" sourceLastImported="1421836058" externalFileSize="58499" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0010_SL_00001.png" bitmapDataHRef="M 86 1421833058.dat" frameRight="6980" frameBottom="3600"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0011_SL_00000.png" itemID="54bf7533-0000023b" sourceExternalFilepath="./LIBRARY/ZMZ_0011_SL_00000.png" sourceLastImported="1421836058" externalFileSize="52974" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0011_SL_00000.png" bitmapDataHRef="M 87 1421833058.dat" frameRight="6920" frameBottom="3540"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0014_ZL_00005.png" itemID="54bf7533-0000023d" sourceExternalFilepath="./LIBRARY/ZMZ_0014_ZL_00005.png" sourceLastImported="1421836058" externalFileSize="26944" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0014_ZL_00005.png" bitmapDataHRef="M 89 1421833058.dat" frameRight="3120" frameBottom="2700"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0015_ZL_00004.png" itemID="54bf7533-0000023e" sourceExternalFilepath="./LIBRARY/ZMZ_0015_ZL_00004.png" sourceLastImported="1421836058" externalFileSize="41616" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0015_ZL_00004.png" bitmapDataHRef="M 90 1421833059.dat" frameRight="3840" frameBottom="3200"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0016_ZL_00003.png" itemID="54bf7533-0000023f" sourceExternalFilepath="./LIBRARY/ZMZ_0016_ZL_00003.png" sourceLastImported="1421836058" externalFileSize="50139" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0016_ZL_00003.png" bitmapDataHRef="M 91 1421833059.dat" frameRight="4040" frameBottom="3460"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0017_ZL_00002.png" itemID="54bf7533-00000240" sourceExternalFilepath="./LIBRARY/ZMZ_0017_ZL_00002.png" sourceLastImported="1421836058" externalFileSize="52350" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0017_ZL_00002.png" bitmapDataHRef="M 92 1421833059.dat" frameRight="4120" frameBottom="3640"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0018_ZL_00001.png" itemID="54bf7533-00000241" sourceExternalFilepath="./LIBRARY/ZMZ_0018_ZL_00001.png" sourceLastImported="1421836058" externalFileSize="50778" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0018_ZL_00001.png" bitmapDataHRef="M 93 1421833059.dat" frameRight="4120" frameBottom="3800"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0019_ZL_00000.png" itemID="54bf7533-00000242" sourceExternalFilepath="./LIBRARY/ZMZ_0019_ZL_00000.png" sourceLastImported="1421836058" externalFileSize="46444" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0019_ZL_00000.png" bitmapDataHRef="M 94 1421833059.dat" frameRight="4160" frameBottom="3900"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0020_CC_00009.png" itemID="54bf7533-00000243" sourceExternalFilepath="./LIBRARY/ZMZ_0020_CC_00009.png" sourceLastImported="1421836058" externalFileSize="3181" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0020_CC_00009.png" bitmapDataHRef="M 95 1421833059.dat" frameRight="4500" frameBottom="800"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0022_CC_00007.png" itemID="54bf7533-00000245" sourceExternalFilepath="./LIBRARY/ZMZ_0022_CC_00007.png" sourceLastImported="1421836058" externalFileSize="10481" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0022_CC_00007.png" bitmapDataHRef="M 97 1421833059.dat" frameRight="5820" frameBottom="980"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0027_CC_00002.png" itemID="54bf7533-0000024a" sourceExternalFilepath="./LIBRARY/ZMZ_0027_CC_00002.png" sourceLastImported="1421836058" externalFileSize="18832" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0027_CC_00002.png" bitmapDataHRef="M 102 1421833059.dat" frameRight="6420" frameBottom="1040"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0029_CC_00000.png" itemID="54bf7533-0000024c" sourceExternalFilepath="./LIBRARY/ZMZ_0029_CC_00000.png" sourceLastImported="1421836058" externalFileSize="19154" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0029_CC_00000.png" bitmapDataHRef="M 104 1421833059.dat" frameRight="6440" frameBottom="1040"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0030_BL_00007.png" itemID="54bf7533-0000024d" sourceExternalFilepath="./LIBRARY/ZMZ_0030_BL_00007.png" sourceLastImported="1421836058" externalFileSize="23213" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0030_BL_00007.png" bitmapDataHRef="M 105 1421833059.dat" frameRight="3760" frameBottom="2940"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0031_BL_00006.png" itemID="54bf7533-0000024e" sourceExternalFilepath="./LIBRARY/ZMZ_0031_BL_00006.png" sourceLastImported="1421836058" externalFileSize="40883" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0031_BL_00006.png" bitmapDataHRef="M 106 1421833059.dat" frameRight="3680" frameBottom="3220"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0032_BL_00005.png" itemID="54bf7533-0000024f" sourceExternalFilepath="./LIBRARY/ZMZ_0032_BL_00005.png" sourceLastImported="1421836058" externalFileSize="42486" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0032_BL_00005.png" bitmapDataHRef="M 107 1421833059.dat" frameRight="3700" frameBottom="3460"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0033_BL_00004.png" itemID="54bf7533-00000250" sourceExternalFilepath="./LIBRARY/ZMZ_0033_BL_00004.png" sourceLastImported="1421836058" externalFileSize="41652" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0033_BL_00004.png" bitmapDataHRef="M 108 1421833059.dat" frameRight="3740" frameBottom="3600"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0034_BL_00003.png" itemID="54bf7533-00000251" sourceExternalFilepath="./LIBRARY/ZMZ_0034_BL_00003.png" sourceLastImported="1421836058" externalFileSize="40461" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0034_BL_00003.png" bitmapDataHRef="M 109 1421833059.dat" frameRight="3740" frameBottom="3660"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0035_BL_00002.png" itemID="54bf7533-00000252" sourceExternalFilepath="./LIBRARY/ZMZ_0035_BL_00002.png" sourceLastImported="1421836058" externalFileSize="40034" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0035_BL_00002.png" bitmapDataHRef="M 110 1421833059.dat" frameRight="3820" frameBottom="3720"/>
+          <DOMBitmapItem name="Orginal/ZMZ_0036_BL_00001.png" itemID="54bf7533-00000253" sourceExternalFilepath="./LIBRARY/ZMZ_0036_BL_00001.png" sourceLastImported="1421836058" externalFileSize="39848" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Orginal/ZMZ_0036_BL_00001.png" bitmapDataHRef="M 111 1421833059.dat" frameRight="3880" frameBottom="3780"/>
+     </media>
+     <symbols>
+          <Include href="box_attack.xml" loadImmediate="false" itemID="5438bbbd-000005b8" lastModified="1421726026"/>
+          <Include href="box_hurt.xml" loadImmediate="false" itemID="5438bbc5-000005b9" lastModified="1413004242"/>
+          <Include href="Jm_Attack.xml" itemIcon="1" loadImmediate="false" itemID="5430d9a9-0000063e" lastModified="1421838152"/>
+          <Include href="JM_Attack_2.xml" itemIcon="1" loadImmediate="false" itemID="54bf7ff9-000001c0" lastModified="1421838286"/>
+          <Include href="JM_Attack_3.xml" itemIcon="1" loadImmediate="false" itemID="54bf8099-000001e6" lastModified="1421838142"/>
+          <Include href="Jm_Behit.xml" itemIcon="1" loadImmediate="false" itemID="5431f806-0000005b" lastModified="1421650948"/>
+          <Include href="Jm_Die.xml" itemIcon="1" loadImmediate="false" itemID="5431fd53-00000176" lastModified="1421650972"/>
+          <Include href="Jm_Move.xml" itemIcon="1" loadImmediate="false" itemID="5430d2a0-00000535" lastModified="1421734400"/>
+          <Include href="Jm_skill.xml" itemIcon="1" loadImmediate="false" itemID="543103a1-00000c7b" lastModified="1421838029"/>
+          <Include href="Jm_Stand.xml" itemIcon="1" loadImmediate="false" itemID="5430d29a-00000533" lastModified="1421650626"/>
+          <Include href="Jm_Victory.xml" itemIcon="1" loadImmediate="false" itemID="54336b67-00000449" lastModified="1412661046"/>
+          <Include href="Jm_VictoryBefore.xml" itemIcon="1" loadImmediate="false" itemID="5433581c-00000242" lastModified="1417846079"/>
+          <Include href="Jm_VictoryStand.xml" itemIcon="1" loadImmediate="false" itemID="54336b57-00000447" lastModified="1421651093"/>
+          <Include href="Need_fx/Ash_fx.xml" itemIcon="1" loadImmediate="false" itemID="5430e5a2-0000084c" lastModified="1412500264"/>
+          <Include href="Need_fx/Cl_fx.xml" itemIcon="1" loadImmediate="false" itemID="542f5cd9-000002fe" lastModified="1421833598"/>
+          <Include href="Need_fx/Clight_fx.xml" itemIcon="1" loadImmediate="false" itemID="54313d9f-0000159c" lastModified="1421833954"/>
+          <Include href="Need_fx/Dslight_fx.xml" itemIcon="1" loadImmediate="false" itemID="54313d94-00001596" lastModified="1421834203"/>
+          <Include href="Need_fx/Flower_fx.xml" itemIcon="1" loadImmediate="false" itemID="54320bd1-00000473" lastModified="1412657307"/>
+          <Include href="Need_fx/Hitlight_fx.xml" itemIcon="1" loadImmediate="false" itemID="543102a5-00000c24" lastModified="1421835225"/>
+          <Include href="Need_fx/Huaban.xml" itemIcon="1" loadImmediate="false" itemID="54337414-000006a4" lastModified="1412661032"/>
+          <Include href="Need_fx/Huaban_fx.xml" itemIcon="1" loadImmediate="false" itemID="54337985-0000071f" lastModified="1412660995"/>
+          <Include href="Need_fx/LittleAsh_fx.xml" itemIcon="1" loadImmediate="false" itemID="54320422-00000309" lastModified="1412568151"/>
+          <Include href="Need_fx/Vis_fx.xml" itemIcon="1" loadImmediate="false" itemID="54310c12-00000eba" lastModified="1412568152"/>
+          <Include href="Need_fx/VisX_fx.xml" itemIcon="1" loadImmediate="false" itemID="54310c0e-00000eb9" lastModified="1412568154"/>
+          <Include href="Parts/Body.xml" itemIcon="1" loadImmediate="false" itemID="5430bb9a-000001cc" lastModified="1412479898"/>
+          <Include href="Parts/Face.xml" itemIcon="1" loadImmediate="false" itemID="5430bb02-000001a4" lastModified="1412479746"/>
+          <Include href="Parts/Head.xml" itemIcon="1" loadImmediate="false" itemID="5430bb59-000001b4" lastModified="1412479833"/>
+          <Include href="Parts/Head_1.xml" itemIcon="1" loadImmediate="false" itemID="54535a36-000012ec" lastModified="1414748744"/>
+          <Include href="Parts/Head_2.xml" itemIcon="1" loadImmediate="false" itemID="54535b02-00001458" lastModified="1414748945"/>
+          <Include href="Parts/hlAl.xml" itemIcon="1" loadImmediate="false" itemID="543225eb-00000105" lastModified="1421835336"/>
+          <Include href="Parts/Jm.xml" itemIcon="1" loadImmediate="false" itemID="5430badb-0000018f" lastModified="1412651061"/>
+          <Include href="Parts/Lf.xml" itemIcon="1" loadImmediate="false" itemID="5430bbed-000001ea" lastModified="1412479981"/>
+          <Include href="Parts/Lh.xml" itemIcon="1" loadImmediate="false" itemID="5430bbbf-000001d8" lastModified="1412479935"/>
+          <Include href="Parts/Lr.xml" itemIcon="1" loadImmediate="false" itemID="5430bbdd-000001e4" lastModified="1412479966"/>
+          <Include href="Parts/P.xml" itemIcon="1" loadImmediate="false" itemID="5430bb86-000001c6" lastModified="1412479878"/>
+          <Include href="Parts/Pf.xml" itemIcon="1" loadImmediate="false" itemID="5430bc04-000001f6" lastModified="1412480004"/>
+          <Include href="Parts/Rf.xml" itemIcon="1" loadImmediate="false" itemID="5430bbf8-000001f0" lastModified="1412479992"/>
+          <Include href="Parts/Rh.xml" itemIcon="1" loadImmediate="false" itemID="5430bb6d-000001ba" lastModified="1412479853"/>
+          <Include href="Parts/Rr.xml" itemIcon="1" loadImmediate="false" itemID="5430bb79-000001c0" lastModified="1412479865"/>
+          <Include href="Parts/Rs.xml" itemIcon="1" loadImmediate="false" itemID="5430bb49-000001ae" lastModified="1412479817"/>
+          <Include href="Parts/Rsh.xml" itemIcon="1" loadImmediate="false" itemID="5430bbaf-000001d2" lastModified="1412479919"/>
+          <Include href="Parts/Sord.xml" itemIcon="1" loadImmediate="false" itemID="5430bbcf-000001de" lastModified="1412479952"/>
+          <Include href="Shadow/Shadow.xml" itemIcon="1" loadImmediate="false" itemID="544ca631-000000f5" lastModified="1414311992"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="场景 1" currentFrame="9">
+               <layers>
+                    <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" name="Stand" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_Stand" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-0.5" ty="719.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.2" y="-97.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" name="Move" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_Move" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.2" ty="718.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.2" y="-89.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" name="Attack" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_Attack" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" name="Skill" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_skill" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.2" ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.7" y="-132.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" name="Behit" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_Behit" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.2" ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.6" y="-119.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" name="Die" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_Die" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="612.2" y="346.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" name="Victory_Before" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_VictoryBefore" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="76.55" y="-19.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" name="Victory_Stand" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Jm_VictoryStand" selected="true" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="107.55" y="5.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

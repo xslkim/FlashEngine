@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Dslight_fx" itemID="54313d94-00001596" symbolType="graphic" lastModified="1435895623">
+  <timeline>
+    <DOMTimeline name="Dslight_fx" currentFrame="11" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-97&lt;/guideline&gt;&lt;guideline direction="v"&gt;284&lt;/guideline&gt;&lt;guideline direction="v"&gt;-237&lt;/guideline&gt;&lt;guideline direction="v"&gt;-366&lt;/guideline&gt;&lt;guideline direction="h"&gt;-29&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/j01" symbolType="graphic" centerPoint3DX="-132.7" centerPoint3DY="-63.65" loop="loop">
+                  <matrix>
+                    <Matrix d="1.30766296386719" tx="-132.7" ty="-63.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/j02" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="24.4" ty="-63.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/j03" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="107.9" ty="-57.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/ZMZ_0022_CC_00007.png">
+                  <matrix>
+                    <Matrix tx="18.8" ty="-78.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145.5" y="24.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/ZMZ_0020_CC_00009.png">
+                  <matrix>
+                    <Matrix tx="128.8" ty="-75.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.5" y="20"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

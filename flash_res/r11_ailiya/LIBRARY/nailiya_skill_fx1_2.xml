@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="nailiya_skill_fx1_2" itemID="557fdd6b-0000041f" symbolType="graphic" lastModified="1438232192">
+  <timeline>
+    <DOMTimeline name="nailiya_skill_fx1_2" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;85&lt;/guideline&gt;&lt;guideline direction="v"&gt;411&lt;/guideline&gt;&lt;guideline direction="h"&gt;-35&lt;/guideline&gt;&lt;guideline direction="h"&gt;35&lt;/guideline&gt;&lt;guideline direction="v"&gt;395&lt;/guideline&gt;&lt;guideline direction="h"&gt;-135&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="attack" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_attack" centerPoint3DX="68.35" centerPoint3DY="-67.65">
+                  <matrix>
+                    <Matrix a="1.73899841308594" d="1.79998779296875" tx="-18.6" ty="-157.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="atffx" symbolType="graphic" centerPoint3DX="37.3" centerPoint3DY="-55.75" loop="play once">
+                  <matrix>
+                    <Matrix a="1.79000854492188" c="-0.872283935546875" d="1.79000854492188" tx="123.8" ty="-16.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-59" y="-22"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="nailiya_skill_part1_2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="28.5" ty="3.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.2" y="-47.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="nailiya_skill_part1_2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="32.25" ty="3.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.2" y="-47.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="nailiya_skill_part1_2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix tx="35.5" ty="3.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.2" y="-47.4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

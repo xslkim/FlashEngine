@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Parts/j02" itemID="55960641-000008fd" symbolType="graphic" lastModified="1435895475">
+  <timeline>
+    <DOMTimeline name="j02" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-44&lt;/guideline&gt;&lt;guideline direction="v"&gt;196&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="ZMZ_0027_CC_00002.png" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/yy01" symbolType="graphic" centerPoint3DX="-13.9" centerPoint3DY="0.05" loop="loop">
+                  <matrix>
+                    <Matrix a="1.31001281738281" d="1.68998718261719" tx="-13.9" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ZMZ_0027_CC_00002.png" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/jj02" selected="true" symbolType="graphic" centerPoint3DX="49.1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.31001281738281" d="1.06999206542969" tx="49.1" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ZMZ_0027_CC_00002.png" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Parts/jj03" symbolType="graphic" centerPoint3DX="-59.1" centerPoint3DY="-0.65" loop="loop">
+                  <matrix>
+                    <Matrix a="1.25" d="1.22999572753906" tx="-59.1" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

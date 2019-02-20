@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/r_shou2" itemID="5513f6c7-0000243c" symbolType="graphic" lastModified="1427422770">
+  <timeline>
+    <DOMTimeline name="r_shou2">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="use/s" symbolType="graphic" centerPoint3DX="-5.25" centerPoint3DY="7.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.550689697265625" b="0.57843017578125" c="-0.57843017578125" d="0.550689697265625" tx="-5.25" ty="7.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.7" y="-9.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

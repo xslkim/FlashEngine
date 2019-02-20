@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="use/pf2" itemID="55127ac9-00000484" symbolType="graphic" lastModified="1433138690">
+  <timeline>
+    <DOMTimeline name="pf2" currentFrame="21">
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="af1" selected="true" symbolType="graphic" centerPoint3DX="18.3" centerPoint3DY="11.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="31.95" ty="2.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-27.3" y="16.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

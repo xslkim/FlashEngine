@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Huaban_fx" itemID="54337985-0000071f" symbolType="graphic" lastModified="1412660995">
+  <timeline>
+    <DOMTimeline name="Huaban_fx">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Orginal/Hb.png">
+                  <matrix>
+                    <Matrix a="0.787506103515625" d="0.787506103515625" tx="-3.85" ty="-6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="6.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

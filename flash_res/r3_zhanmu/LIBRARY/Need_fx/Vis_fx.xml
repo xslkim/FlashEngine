@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Need_fx/Vis_fx" itemID="54310c12-00000eba" symbolType="graphic" lastModified="1426311166">
+  <timeline>
+    <DOMTimeline name="Vis_fx">
+      <layers>
+        <DOMLayer name="图层 18" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Orginal/hy.png">
+                  <matrix>
+                    <Matrix a="1.21734619140625" d="1.21734619140625" tx="-205.95" ty="-80.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="121" y="20"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
