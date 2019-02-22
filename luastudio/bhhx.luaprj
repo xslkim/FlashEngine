@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="bhhx.luaprj" Cmd="" Arg="" Dir="" Toggle="false" >
+    <Filter RelativePath=".\..\src" Toggle="false" >
+        <LuaFile RelativePath=".\main.lua" />
+        <LuaFile RelativePath=".\TestScene.lua" />
+    </Filter>
+</Project>
