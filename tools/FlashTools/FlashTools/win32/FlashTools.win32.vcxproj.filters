@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Classes\DataLogic">
+      <UniqueIdentifier>{e3826ca5-c157-4a18-a892-dd5016b859bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Display">
+      <UniqueIdentifier>{157d6dda-4719-489e-9829-2f2155d84286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CxImage">
+      <UniqueIdentifier>{8376c81f-0596-497f-96bd-0e2924fb2b5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CxImage\png">
+      <UniqueIdentifier>{7761e5d8-d773-4d24-bb39-b5d39e3ed39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protocbuf">
+      <UniqueIdentifier>{52cf3cf2-0366-4a12-863b-dc4fe97c82ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PandoraLib">
+      <UniqueIdentifier>{c2fd520a-75b9-4658-8135-57d0d9177296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tinyxml">
+      <UniqueIdentifier>{09476eba-f2c6-458b-8f0b-888a438d7853}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataLogic\DOMDocument.cpp">
+      <Filter>Classes\DataLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataLogic\DOMSymbolItem.cpp">
+      <Filter>Classes\DataLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataLogic\DataLogicMgr.cpp">
+      <Filter>Classes\DataLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Display\FlashCCSprite.cpp">
+      <Filter>Classes\Display</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utils.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataLogic\DOMFrame.cpp">
+      <Filter>Classes\DataLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Matrix.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataLogic\DOMLayer.cpp">
+      <Filter>Classes\DataLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\tif_xfile.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximabmp.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximadsp.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaenc.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaexif.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximage.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximagif.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximahist.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaico.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximainfo.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaint.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximajas.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximajbg.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximajpg.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximalpha.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximalyr.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximamng.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximapal.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximapcx.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximapng.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaraw.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximasel.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximaska.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximatga.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximath.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximatif.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximatran.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximawbmp.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximawmf.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\ximawnd.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\xmemfile.cpp">
+      <Filter>CxImage</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\png.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngerror.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pnggccrd.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngget.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngmem.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngpread.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngread.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngrio.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngrtran.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngrutil.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngset.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngtrans.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngvcrd.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngwio.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngwrite.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngwtran.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Image\png\pngwutil.c">
+      <Filter>CxImage\png</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tinyxml\tinyxml.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tinyxml\tinyxmlerror.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tinyxml\tinyxmlparser.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tinyxml\tinystr.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\code_generator.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\coded_stream.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\command_line_interface.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\common.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_enum.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_enum_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_extension.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_file.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_generator.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_helpers.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_message.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_message_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_primitive_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_service.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_string_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor.pb.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor_database.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\dynamic_message.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\extension_set.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\extension_set_heavy.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\generated_message_reflection.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\generated_message_util.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\gzip_stream.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\importer.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_enum.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_enum_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_extension.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_file.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_generator.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_helpers.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_message.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_message_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_primitive_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_service.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_string_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\message.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\message_lite.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\once.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\parser.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\plugin.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\plugin.pb.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\printer.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\python_generator.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\reflection_ops.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\repeated_field.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\service.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\structurally_valid.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\strutil.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\subprocess.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\substitute.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\text_format.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\tokenizer.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\unknown_field_set.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\wire_format.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\wire_format_lite.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream_impl.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream_impl_lite.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zip_writer.cpp">
+      <Filter>Protocbuf</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\PandoraLib\flashMeta.pb.cpp">
+      <Filter>PandoraLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\PandoraLib\BoxFlashInfo.pb.cpp">
+      <Filter>PandoraLib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\core\PandoraLib\flashMetaEx.pb.cc">
+      <Filter>PandoraLib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataLogic\DOMDocument.h">
+      <Filter>Classes\DataLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataLogic\DOMSymbolItem.h">
+      <Filter>Classes\DataLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataLogic\DataLogicMgr.h">
+      <Filter>Classes\DataLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Display\FlashCCSprite.h">
+      <Filter>Classes\Display</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utils.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataLogic\DOMFrame.h">
+      <Filter>Classes\DataLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Matrix.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataLogic\DOMLayer.h">
+      <Filter>Classes\DataLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\xfile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximabmp.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximacfg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximadef.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximage.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximagif.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximaico.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximaiter.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximajas.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximajbg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximajpg.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximamng.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximapcx.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximapng.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximaraw.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximaska.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximatga.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximath.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximatif.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximawbmp.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\ximawmf.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\xiofile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\xmemfile.h">
+      <Filter>CxImage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\png\png.h">
+      <Filter>CxImage\png</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Image\png\pngconf.h">
+      <Filter>CxImage\png</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tinyxml\tinystr.h">
+      <Filter>tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tinyxml\tinyxml.h">
+      <Filter>tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor.pb.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor_database.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\dynamic_message.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\extension_set.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\generated_message_reflection.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\generated_message_util.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\message.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\message_lite.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\reflection_ops.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\repeated_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\service.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\text_format.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\unknown_field_set.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format_lite.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format_lite_inl.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\common.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\hash.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\map-util.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\once.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\stl_util-inl.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\strutil.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\substitute.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\coded_stream.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\coded_stream_inl.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\gzip_stream.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\plugin.pb.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\printer.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\tokenizer.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream_impl.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream_impl_lite.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\code_generator.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\command_line_interface.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\importer.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\parser.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\plugin.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\plugin.pb.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\subprocess.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\zip_writer.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_enum.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_enum_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_extension.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_file.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_generator.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_helpers.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_message.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_message_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_primitive_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_service.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_string_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_enum.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_enum_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_extension.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_file.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_generator.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_helpers.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_message.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_message_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_primitive_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_service.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_string_field.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\python\python_generator.h">
+      <Filter>Protocbuf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\PandoraLib\flashMeta.pb.h">
+      <Filter>PandoraLib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\PandoraLib\BoxFlashInfo.pb.h">
+      <Filter>PandoraLib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\core\PandoraLib\flashMetaEx.pb.h">
+      <Filter>PandoraLib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>

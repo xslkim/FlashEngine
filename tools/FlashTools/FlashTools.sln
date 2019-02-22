@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcocos2d", "cocos2dx\proj.win32\cocos2d-win32.vcxproj", "{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlashTools", "FlashTools\win32\FlashTools.win32.vcxproj", "{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fileMove", "fileMove\fileMove.vcxproj", "{A19511AC-0B0D-4486-8512-F332FD4B1AC3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TexturePackDir", "TexturePackDir\TexturePackDir.vcxproj", "{743BA1B7-F31B-4450-962E-32FAD0CF1212}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "md5Pack", "md5Pack\md5Pack.vcxproj", "{01DB1199-B971-4C31-A0A6-2A65106F553D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "卡牌打包工具", "卡牌打包工具\卡牌打包工具.vcxproj", "{B34BC57B-42EE-407C-AF37-ED68A7FB2274}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "裁边工具帅哥专用", "裁边工具帅哥专用\裁边工具帅哥专用.vcxproj", "{A3CA62F6-6B45-4D47-BF1B-348BE3FFBB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}.Debug|Win32.Build.0 = Debug|Win32
+		{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}.Release|Win32.ActiveCfg = Release|Win32
+		{98A51BA8-FC3A-415B-AC8F-8C7BD464E93E}.Release|Win32.Build.0 = Release|Win32
+		{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}.Debug|Win32.Build.0 = Debug|Win32
+		{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}.Release|Win32.ActiveCfg = Release|Win32
+		{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}.Release|Win32.Build.0 = Release|Win32
+		{A19511AC-0B0D-4486-8512-F332FD4B1AC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A19511AC-0B0D-4486-8512-F332FD4B1AC3}.Debug|Win32.Build.0 = Debug|Win32
+		{A19511AC-0B0D-4486-8512-F332FD4B1AC3}.Release|Win32.ActiveCfg = Release|Win32
+		{A19511AC-0B0D-4486-8512-F332FD4B1AC3}.Release|Win32.Build.0 = Release|Win32
+		{743BA1B7-F31B-4450-962E-32FAD0CF1212}.Debug|Win32.ActiveCfg = Debug|Win32
+		{743BA1B7-F31B-4450-962E-32FAD0CF1212}.Debug|Win32.Build.0 = Debug|Win32
+		{743BA1B7-F31B-4450-962E-32FAD0CF1212}.Release|Win32.ActiveCfg = Release|Win32
+		{743BA1B7-F31B-4450-962E-32FAD0CF1212}.Release|Win32.Build.0 = Release|Win32
+		{01DB1199-B971-4C31-A0A6-2A65106F553D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01DB1199-B971-4C31-A0A6-2A65106F553D}.Debug|Win32.Build.0 = Debug|Win32
+		{01DB1199-B971-4C31-A0A6-2A65106F553D}.Release|Win32.ActiveCfg = Release|Win32
+		{01DB1199-B971-4C31-A0A6-2A65106F553D}.Release|Win32.Build.0 = Release|Win32
+		{B34BC57B-42EE-407C-AF37-ED68A7FB2274}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B34BC57B-42EE-407C-AF37-ED68A7FB2274}.Debug|Win32.Build.0 = Debug|Win32
+		{B34BC57B-42EE-407C-AF37-ED68A7FB2274}.Release|Win32.ActiveCfg = Release|Win32
+		{B34BC57B-42EE-407C-AF37-ED68A7FB2274}.Release|Win32.Build.0 = Release|Win32
+		{A3CA62F6-6B45-4D47-BF1B-348BE3FFBB76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3CA62F6-6B45-4D47-BF1B-348BE3FFBB76}.Debug|Win32.Build.0 = Debug|Win32
+		{A3CA62F6-6B45-4D47-BF1B-348BE3FFBB76}.Release|Win32.ActiveCfg = Release|Win32
+		{A3CA62F6-6B45-4D47-BF1B-348BE3FFBB76}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

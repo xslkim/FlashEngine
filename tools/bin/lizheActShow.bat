@@ -1,0 +1,1 @@
+.\FlashTools.exe D:\trunk\game\project\resource\battle\CardbattleXX3/ show

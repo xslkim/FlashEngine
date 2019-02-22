@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>FlashTools</ProjectName>
+    <ProjectGuid>{B8BF9E81-35FD-4582-BA1C-B85FA365BABB}</ProjectGuid>
+    <RootNamespace>HelloWorldwin32</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Configuration).win32\..\..\bin</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(SolutionDir)cocos2dx\platform;$(SolutionDir)cocos2dx\include;$(SolutionDir)cocos2dx;$(SolutionDir)cocos2dx\platform\third_party\win32\OGLES;..\Classes\DataLogic;..\Classes\Display;..\Classes;..\include;..\Image;..\Image\png;..\..\tinyxml;..\..\..\..\core\PandoraLib;..\..\..\..\core\protobuf\include;..\..\..\..\core\protobuf;..\..\..\PandoraPacket;..\..\..\..\Classes\metadata;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libcocos2d.lib;libEGL.lib;libgles_cm.lib;libjpeg.lib;libzlib.lib;libpng.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);..\..\..\PandoraPacket\;..\..\Debug.win32\;..\lib\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>$(SolutionDir)cocos2dx\platform;$(SolutionDir)cocos2dx\include;$(SolutionDir)cocos2dx;$(SolutionDir)cocos2dx\platform\third_party\win32\OGLES;..\Classes;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libcocos2d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\core\PandoraLib\BoxFlashInfo.pb.cpp" />
+    <ClCompile Include="..\..\..\..\core\PandoraLib\flashMeta.pb.cpp" />
+    <ClCompile Include="..\..\..\..\core\PandoraLib\flashMetaEx.pb.cc" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\coded_stream.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\code_generator.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\command_line_interface.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\common.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_enum.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_enum_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_extension.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_file.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_generator.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_helpers.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_message.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_message_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_primitive_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_service.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\cpp_string_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor.pb.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\descriptor_database.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\dynamic_message.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\extension_set.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\extension_set_heavy.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\generated_message_reflection.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\generated_message_util.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\gzip_stream.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\importer.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_enum.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_enum_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_extension.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_file.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_generator.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_helpers.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_message.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_message_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_primitive_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_service.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\java_string_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\message.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\message_lite.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\once.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\parser.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\plugin.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\plugin.pb.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\printer.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\python_generator.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\reflection_ops.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\repeated_field.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\service.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\structurally_valid.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\strutil.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\subprocess.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\substitute.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\text_format.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\tokenizer.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\unknown_field_set.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\wire_format.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\wire_format_lite.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream_impl.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zero_copy_stream_impl_lite.cpp" />
+    <ClCompile Include="..\..\..\..\core\protobuf\src\zip_writer.cpp" />
+    <ClCompile Include="..\..\tinyxml\tinystr.cpp" />
+    <ClCompile Include="..\..\tinyxml\tinyxml.cpp" />
+    <ClCompile Include="..\..\tinyxml\tinyxmlerror.cpp" />
+    <ClCompile Include="..\..\tinyxml\tinyxmlparser.cpp" />
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\DataLogic\DataLogicMgr.cpp" />
+    <ClCompile Include="..\Classes\DataLogic\DOMDocument.cpp" />
+    <ClCompile Include="..\Classes\DataLogic\DOMFrame.cpp" />
+    <ClCompile Include="..\Classes\DataLogic\DOMLayer.cpp" />
+    <ClCompile Include="..\Classes\DataLogic\DOMSymbolItem.cpp" />
+    <ClCompile Include="..\Classes\Display\FlashCCSprite.cpp" />
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp" />
+    <ClCompile Include="..\Classes\Matrix.cpp" />
+    <ClCompile Include="..\Classes\utils.cpp" />
+    <ClCompile Include="..\Image\png\png.c" />
+    <ClCompile Include="..\Image\png\pngerror.c" />
+    <ClCompile Include="..\Image\png\pnggccrd.c" />
+    <ClCompile Include="..\Image\png\pngget.c" />
+    <ClCompile Include="..\Image\png\pngmem.c" />
+    <ClCompile Include="..\Image\png\pngpread.c" />
+    <ClCompile Include="..\Image\png\pngread.c" />
+    <ClCompile Include="..\Image\png\pngrio.c" />
+    <ClCompile Include="..\Image\png\pngrtran.c" />
+    <ClCompile Include="..\Image\png\pngrutil.c" />
+    <ClCompile Include="..\Image\png\pngset.c" />
+    <ClCompile Include="..\Image\png\pngtrans.c" />
+    <ClCompile Include="..\Image\png\pngvcrd.c" />
+    <ClCompile Include="..\Image\png\pngwio.c" />
+    <ClCompile Include="..\Image\png\pngwrite.c" />
+    <ClCompile Include="..\Image\png\pngwtran.c" />
+    <ClCompile Include="..\Image\png\pngwutil.c" />
+    <ClCompile Include="..\Image\tif_xfile.cpp" />
+    <ClCompile Include="..\Image\ximabmp.cpp" />
+    <ClCompile Include="..\Image\ximadsp.cpp" />
+    <ClCompile Include="..\Image\ximaenc.cpp" />
+    <ClCompile Include="..\Image\ximaexif.cpp" />
+    <ClCompile Include="..\Image\ximage.cpp" />
+    <ClCompile Include="..\Image\ximagif.cpp" />
+    <ClCompile Include="..\Image\ximahist.cpp" />
+    <ClCompile Include="..\Image\ximaico.cpp" />
+    <ClCompile Include="..\Image\ximainfo.cpp" />
+    <ClCompile Include="..\Image\ximaint.cpp" />
+    <ClCompile Include="..\Image\ximajas.cpp" />
+    <ClCompile Include="..\Image\ximajbg.cpp" />
+    <ClCompile Include="..\Image\ximajpg.cpp" />
+    <ClCompile Include="..\Image\ximalpha.cpp" />
+    <ClCompile Include="..\Image\ximalyr.cpp" />
+    <ClCompile Include="..\Image\ximamng.cpp" />
+    <ClCompile Include="..\Image\ximapal.cpp" />
+    <ClCompile Include="..\Image\ximapcx.cpp" />
+    <ClCompile Include="..\Image\ximapng.cpp" />
+    <ClCompile Include="..\Image\ximaraw.cpp" />
+    <ClCompile Include="..\Image\ximasel.cpp" />
+    <ClCompile Include="..\Image\ximaska.cpp" />
+    <ClCompile Include="..\Image\ximatga.cpp" />
+    <ClCompile Include="..\Image\ximath.cpp" />
+    <ClCompile Include="..\Image\ximatif.cpp" />
+    <ClCompile Include="..\Image\ximatran.cpp" />
+    <ClCompile Include="..\Image\ximawbmp.cpp" />
+    <ClCompile Include="..\Image\ximawmf.cpp" />
+    <ClCompile Include="..\Image\ximawnd.cpp" />
+    <ClCompile Include="..\Image\xmemfile.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\core\PandoraLib\BoxFlashInfo.pb.h" />
+    <ClInclude Include="..\..\..\..\core\PandoraLib\flashMeta.pb.h" />
+    <ClInclude Include="..\..\..\..\core\PandoraLib\flashMetaEx.pb.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\code_generator.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\command_line_interface.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_enum.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_enum_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_extension.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_file.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_generator.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_helpers.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_message.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_message_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_primitive_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_service.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\cpp\cpp_string_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\importer.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_enum.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_enum_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_extension.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_file.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_generator.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_helpers.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_message.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_message_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_primitive_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_service.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\java\java_string_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\parser.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\plugin.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\plugin.pb.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\python\python_generator.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\subprocess.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\compiler\zip_writer.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor.pb.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\descriptor_database.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\dynamic_message.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\extension_set.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\generated_message_reflection.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\generated_message_util.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\coded_stream.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\coded_stream_inl.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\gzip_stream.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\plugin.pb.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\printer.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\tokenizer.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream_impl.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\io\zero_copy_stream_impl_lite.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\message.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\message_lite.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\reflection_ops.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\repeated_field.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\service.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\common.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\hash.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\map-util.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\once.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\stl_util-inl.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\strutil.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\stubs\substitute.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\text_format.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\unknown_field_set.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format_lite.h" />
+    <ClInclude Include="..\..\..\..\core\protobuf\include\google\protobuf\wire_format_lite_inl.h" />
+    <ClInclude Include="..\..\tinyxml\tinystr.h" />
+    <ClInclude Include="..\..\tinyxml\tinyxml.h" />
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="..\Classes\DataLogic\DataLogicMgr.h" />
+    <ClInclude Include="..\Classes\DataLogic\DOMDocument.h" />
+    <ClInclude Include="..\Classes\DataLogic\DOMFrame.h" />
+    <ClInclude Include="..\Classes\DataLogic\DOMLayer.h" />
+    <ClInclude Include="..\Classes\DataLogic\DOMSymbolItem.h" />
+    <ClInclude Include="..\Classes\Display\FlashCCSprite.h" />
+    <ClInclude Include="..\Classes\HelloWorldScene.h" />
+    <ClInclude Include="..\Classes\Matrix.h" />
+    <ClInclude Include="..\Classes\utils.h" />
+    <ClInclude Include="..\Image\png\png.h" />
+    <ClInclude Include="..\Image\png\pngconf.h" />
+    <ClInclude Include="..\Image\xfile.h" />
+    <ClInclude Include="..\Image\ximabmp.h" />
+    <ClInclude Include="..\Image\ximacfg.h" />
+    <ClInclude Include="..\Image\ximadef.h" />
+    <ClInclude Include="..\Image\ximage.h" />
+    <ClInclude Include="..\Image\ximagif.h" />
+    <ClInclude Include="..\Image\ximaico.h" />
+    <ClInclude Include="..\Image\ximaiter.h" />
+    <ClInclude Include="..\Image\ximajas.h" />
+    <ClInclude Include="..\Image\ximajbg.h" />
+    <ClInclude Include="..\Image\ximajpg.h" />
+    <ClInclude Include="..\Image\ximamng.h" />
+    <ClInclude Include="..\Image\ximapcx.h" />
+    <ClInclude Include="..\Image\ximapng.h" />
+    <ClInclude Include="..\Image\ximaraw.h" />
+    <ClInclude Include="..\Image\ximaska.h" />
+    <ClInclude Include="..\Image\ximatga.h" />
+    <ClInclude Include="..\Image\ximath.h" />
+    <ClInclude Include="..\Image\ximatif.h" />
+    <ClInclude Include="..\Image\ximawbmp.h" />
+    <ClInclude Include="..\Image\ximawmf.h" />
+    <ClInclude Include="..\Image\xiofile.h" />
+    <ClInclude Include="..\Image\xmemfile.h" />
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\cocos2dx\proj.win32\cocos2d-win32.vcxproj">
+      <Project>{98a51ba8-fc3a-415b-ac8f-8c7bd464e93e}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
