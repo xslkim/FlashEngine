@@ -1,0 +1,62 @@
+/*
+ * cocos2d for iPhone: http://www.cocos2d-iphone.org
+ * cocos2d-x: http://www.cocos2d-x.org
+ *
+ * Copyright (c) 2012 Pierre-David Bélanger
+ * Copyright (c) 2012 cocos2d-x.org
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ */
+
+#ifndef __MISCNODE_CCCLIPPING_REGION_NODE_H__
+#define __MISCNODE_CCCLIPPING_REGION_NODE_H__
+
+#include "base_nodes/CCNode.h"
+#include "CCGL.h"
+
+using namespace cocos2d;
+
+class CCClippingRegionNode : public CCNode
+{    
+public:
+    static CCClippingRegionNode* create(CCNode* drawNode, float x, float y, float width, float height);
+	
+
+	CCRect getClippingRegion(void); 
+	void setClippingRegion(CCRect clippingRegion);
+
+	bool isClippingEnabled(void); 
+	void setClippingEnabled(bool enabled); 
+
+	virtual void visit(void);
+	
+	virtual void onEnter();
+
+protected:
+	~CCClippingRegionNode();
+	CCClippingRegionNode(CCNode* drawNode);
+	CCRect m_clippingRegion;
+	bool m_clippingEnabled;
+	CCNode* m_drawNode;
+};
+
+
+#endif
+
