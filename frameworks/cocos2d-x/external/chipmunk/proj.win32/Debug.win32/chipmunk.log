@@ -1,0 +1,32 @@
+﻿  chipmunk.c
+  cpArbiter.c
+  cpArray.c
+  cpBB.c
+  cpBBTree.c
+  cpBody.c
+  cpCollision.c
+  cpHashSet.c
+e:\client\frameworks\cocos2d-x\external\chipmunk\src\chipmunk.c(48): error C3688: 文本后缀“XSTR”无效；未找到文文本运算符或文本运算符模板“operator """"XSTR”
+e:\client\frameworks\cocos2d-x\external\chipmunk\src\chipmunk.c(48): error C2143: 语法错误: 缺少“;”(在“user-defined string literal”的前面)
+e:\client\frameworks\cocos2d-x\external\chipmunk\src\chipmunk.c(48): error C2059: 语法错误:“user-defined string literal”
+  cpPolyShape.c
+  cpShape.c
+  cpSpace.c
+  cpSpaceComponent.c
+  cpSpaceHash.c
+  cpSpaceQuery.c
+  cpSpaceStep.c
+  cpSpatialIndex.c
+  cpSweep1D.c
+  cpVect.c
+  cpConstraint.c
+  cpDampedRotarySpring.c
+  cpDampedSpring.c
+  cpGearJoint.c
+  cpGrooveJoint.c
+  cpPinJoint.c
+  cpPivotJoint.c
+  cpRatchetJoint.c
+  cpRotaryLimitJoint.c
+  cpSimpleMotor.c
+  cpSlideJoint.c
