@@ -21,5 +21,10 @@ Direct run runtime/win32/icefire.exe in windows.
   ```
  # Export Flash animation
  
+ first parameter is flash animation path.
+ second parameter is cocos2d animation path.
+ ```
+ tools\bin\FlashTools.exe flash_res/r11_ailiya res/hero/r11_ailiya
+ ```
  
  
