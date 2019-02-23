@@ -1,0 +1,44 @@
+include_directories(
+  ../flash
+  ../flash/protobuf
+  ../flash/protobuf/google
+  ../flash/protobuf/google/protobuf
+  ../flash/protobuf/google/protobuf/io
+  ../flash/protobuf/google/protobuf/stubs
+)
+
+set(COCOS_2D_SRC
+  flash/protobuf/google/protobuf/descriptor.cc
+  flash/protobuf/google/protobuf/descriptor.pb.cc
+  flash/protobuf/google/protobuf/descriptor_database.cc
+  flash/protobuf/google/protobuf/dynamic_message.cc
+  flash/protobuf/google/protobuf/extension_set.cc
+  flash/protobuf/google/protobuf/extension_set_heavy.cc
+  flash/protobuf/google/protobuf/generated_message_reflection.cc
+  flash/protobuf/google/protobuf/generated_message_util.cc
+  flash/protobuf/google/protobuf/message.cc
+  flash/protobuf/google/protobuf/message_lite.cc
+  flash/protobuf/google/protobuf/reflection_ops.cc
+  flash/protobuf/google/protobuf/repeated_field.cc
+  flash/protobuf/google/protobuf/service.cc
+  flash/protobuf/google/protobuf/text_format.cc
+  flash/protobuf/google/protobuf/unknown_field_set.cc
+  flash/protobuf/google/protobuf/wire_format.cc
+  flash/protobuf/google/protobuf/wire_format_lite.cc
+  flash/protobuf/google/protobuf/io/coded_stream.cc
+  flash/protobuf/google/protobuf/io/gzip_stream.cc
+  flash/protobuf/google/protobuf/io/printer.cc
+  flash/protobuf/google/protobuf/io/tokenizer.cc
+  flash/protobuf/google/protobuf/io/zero_copy_stream.cc
+  flash/protobuf/google/protobuf/io/zero_copy_stream_impl.cc
+  flash/protobuf/google/protobuf/io/zero_copy_stream_impl_lite.cc
+  flash/protobuf/google/protobuf/stubs/stringprintf.cc
+  flash/protobuf/google/protobuf/stubs/atomicops_internals_x86_gcc.cc
+  flash/protobuf/google/protobuf/stubs/atomicops_internals_x86_msvc.cc
+  flash/protobuf/google/protobuf/stubs/common.cc
+  flash/protobuf/google/protobuf/stubs/once.cc
+  flash/protobuf/google/protobuf/stubs/strutil.cc
+  flash/protobuf/google/protobuf/stubs/structurally_valid.cc
+  flash/protobuf/google/protobuf/stubs/substitute.cc
+)
+

@@ -1,0 +1,422 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+
+LOCAL_MODULE := cocos2dx_static
+
+LOCAL_MODULE_FILENAME := libcocos2d
+LOCAL_CPP_FEATURES += exceptions
+
+LOCAL_ARM_MODE := arm
+
+LOCAL_SRC_FILES := \
+cocos2d.cpp \
+2d/CCAction.cpp \
+2d/CCActionCamera.cpp \
+2d/CCActionCatmullRom.cpp \
+2d/CCActionEase.cpp \
+2d/CCActionGrid.cpp \
+2d/CCActionGrid3D.cpp \
+2d/CCActionInstant.cpp \
+2d/CCActionInterval.cpp \
+2d/CCActionManager.cpp \
+2d/CCActionPageTurn3D.cpp \
+2d/CCActionProgressTimer.cpp \
+2d/CCActionTiledGrid.cpp \
+2d/CCActionTween.cpp \
+2d/CCAnimation.cpp \
+2d/CCAnimationCache.cpp \
+2d/CCAtlasNode.cpp \
+2d/CCClippingNode.cpp \
+2d/CCComponent.cpp \
+2d/CCComponentContainer.cpp \
+2d/CCDrawNode.cpp \
+2d/CCDrawingPrimitives.cpp \
+2d/CCFont.cpp \
+2d/CCFontAtlas.cpp \
+2d/CCFontAtlasCache.cpp \
+2d/CCFontCharMap.cpp \
+2d/CCFontFNT.cpp \
+2d/CCFontFreeType.cpp \
+2d/CCGLBufferedNode.cpp \
+2d/CCGrabber.cpp \
+2d/CCGrid.cpp \
+2d/CCLabel.cpp \
+2d/CCLabelAtlas.cpp \
+2d/CCLabelBMFont.cpp \
+2d/CCLabelTTF.cpp \
+2d/CCLabelTextFormatter.cpp \
+2d/CCLayer.cpp \
+2d/CCMenu.cpp \
+2d/CCMenuItem.cpp \
+2d/CCMotionStreak.cpp \
+2d/CCNode.cpp \
+2d/CCNodeGrid.cpp \
+2d/CCParallaxNode.cpp \
+2d/CCParticleBatchNode.cpp \
+2d/CCParticleExamples.cpp \
+2d/CCParticleSystem.cpp \
+2d/CCParticleSystemQuad.cpp \
+2d/CCProgressTimer.cpp \
+2d/CCRenderTexture.cpp \
+2d/CCScene.cpp \
+2d/CCSprite.cpp \
+2d/CCSpriteBatchNode.cpp \
+2d/CCSpriteFrame.cpp \
+2d/CCSpriteFrameCache.cpp \
+2d/CCTMXLayer.cpp \
+2d/CCFastTMXLayer.cpp \
+2d/CCTMXObjectGroup.cpp \
+2d/CCTMXTiledMap.cpp \
+2d/CCFastTMXTiledMap.cpp \
+2d/CCTMXXMLParser.cpp \
+2d/CCTextFieldTTF.cpp \
+2d/CCTileMapAtlas.cpp \
+2d/CCTransition.cpp \
+2d/CCTransitionPageTurn.cpp \
+2d/CCTransitionProgress.cpp \
+2d/CCTweenFunction.cpp \
+3d/CCAnimate3D.cpp \
+3d/CCAnimation3D.cpp \
+3d/CCBundle3D.cpp \
+3d/CCBundleReader.cpp \
+3d/CCMesh.cpp \
+3d/CCMeshSkin.cpp \
+3d/CCSprite3DMaterial.cpp \
+3d/CCObjLoader.cpp \
+3d/CCSprite3D.cpp \
+cryptopp/3way.cpp \
+cryptopp/adler32.cpp \
+cryptopp/algebra.cpp \
+cryptopp/algparam.cpp \
+cryptopp/arc4.cpp \
+cryptopp/asn.cpp \
+cryptopp/authenc.cpp \
+cryptopp/base32.cpp \
+cryptopp/basecode.cpp \
+cryptopp/bfinit.cpp \
+cryptopp/blumshub.cpp \
+cryptopp/blowfish.cpp \
+cryptopp/camellia.cpp \
+cryptopp/cast.cpp \
+cryptopp/casts.cpp \
+cryptopp/cbcmac.cpp \
+cryptopp/ccm.cpp \
+cryptopp/channels.cpp \
+cryptopp/cmac.cpp \
+cryptopp/cpu.cpp \
+cryptopp/crc.cpp \
+cryptopp/cryptlib.cpp \
+cryptopp/default.cpp \
+cryptopp/des.cpp \
+cryptopp/dessp.cpp \
+cryptopp/dh.cpp \
+cryptopp/dh2.cpp \
+cryptopp/dll.cpp \
+cryptopp/dsa.cpp \
+cryptopp/eax.cpp \
+cryptopp/ec2n.cpp \
+cryptopp/eccrypto.cpp \
+cryptopp/ecp.cpp \
+cryptopp/elgamal.cpp \
+cryptopp/emsa2.cpp \
+cryptopp/eprecomp.cpp \
+cryptopp/esign.cpp \
+cryptopp/files.cpp \
+cryptopp/filters.cpp \
+cryptopp/fips140.cpp \
+cryptopp/fipstest.cpp \
+cryptopp/gcm.cpp \
+cryptopp/gf256.cpp \
+cryptopp/gf2_32.cpp \
+cryptopp/gf2n.cpp \
+cryptopp/gfpcrypt.cpp \
+cryptopp/gost.cpp \
+cryptopp/hex.cpp \
+cryptopp/gzip.cpp \
+cryptopp/hmac.cpp \
+cryptopp/hrtimer.cpp \
+cryptopp/ida.cpp \
+cryptopp/idea.cpp \
+cryptopp/integer.cpp \
+cryptopp/iterhash.cpp \
+cryptopp/luc.cpp \
+cryptopp/mars.cpp \
+cryptopp/marss.cpp \
+cryptopp/md2.cpp \
+cryptopp/md4.cpp \
+cryptopp/md5.cpp \
+cryptopp/misc.cpp \
+cryptopp/modes.cpp \
+cryptopp/mqueue.cpp \
+cryptopp/mqv.cpp \
+cryptopp/nbtheory.cpp \
+cryptopp/network.cpp \
+cryptopp/oaep.cpp \
+cryptopp/osrng.cpp \
+cryptopp/panama.cpp \
+cryptopp/pch.cpp \
+cryptopp/pkcspad.cpp \
+cryptopp/polynomi.cpp \
+cryptopp/pssr.cpp \
+cryptopp/pubkey.cpp \
+cryptopp/queue.cpp \
+cryptopp/rabin.cpp \
+cryptopp/randpool.cpp \
+cryptopp/rc2.cpp \
+cryptopp/rc5.cpp \
+cryptopp/rc6.cpp \
+cryptopp/rdtables.cpp \
+cryptopp/rijndael.cpp \
+cryptopp/ripemd.cpp \
+cryptopp/rng.cpp \
+cryptopp/rsa.cpp \
+cryptopp/rw.cpp \
+cryptopp/safer.cpp \
+cryptopp/salsa.cpp \
+cryptopp/seal.cpp \
+cryptopp/seed.cpp \
+cryptopp/serpent.cpp \
+cryptopp/sha.cpp \
+cryptopp/sha3.cpp \
+cryptopp/shacal2.cpp \
+cryptopp/shark.cpp \
+cryptopp/sharkbox.cpp \
+cryptopp/simple.cpp \
+cryptopp/skipjack.cpp \
+cryptopp/socketft.cpp \
+cryptopp/sosemanuk.cpp \
+cryptopp/square.cpp \
+cryptopp/squaretb.cpp \
+cryptopp/strciphr.cpp \
+cryptopp/tea.cpp \
+cryptopp/tiger.cpp \
+cryptopp/tftables.cpp \
+cryptopp/tigertab.cpp \
+cryptopp/trdlocal.cpp \
+cryptopp/ttmac.cpp \
+cryptopp/twofish.cpp \
+cryptopp/vmac.cpp \
+cryptopp/wait.cpp \
+cryptopp/wake.cpp \
+cryptopp/whrlpool.cpp \
+cryptopp/winpipes.cpp \
+cryptopp/xtr.cpp \
+cryptopp/xtrcrypt.cpp \
+cryptopp/zdeflate.cpp \
+cryptopp/zinflate.cpp \
+cryptopp/cryptoZlib.cpp \
+flash/PandoraLib/BoxFlash.cpp \
+flash/PandoraLib/BoxFlashInfo.pb.cpp \
+flash/PandoraLib/CCMeshSprite.cpp \
+flash/PandoraLib/CCSwfSprite.cpp \
+flash/PandoraLib/FlashCacheMgr.cpp \
+flash/PandoraLib/flashMeta.pb.cpp \
+flash/PandoraLib/FlashSprite.cpp \
+flash/PandoraLib/FlashUtils.cpp \
+flash/PandoraLib/Matrix.cpp \
+flash/PandoraLib/NotificationDirector.cpp \
+flash/PandoraLib/PlistResMgr.cpp \
+flash/PandoraLib/AesZipUtils.cpp \
+flash/PandoraLib/md5.cpp \
+flash/protobuf/google/protobuf/descriptor.cc \
+flash/protobuf/google/protobuf/descriptor.pb.cc \
+flash/protobuf/google/protobuf/descriptor_database.cc \
+flash/protobuf/google/protobuf/dynamic_message.cc \
+flash/protobuf/google/protobuf/extension_set.cc \
+flash/protobuf/google/protobuf/extension_set_heavy.cc \
+flash/protobuf/google/protobuf/generated_message_reflection.cc \
+flash/protobuf/google/protobuf/generated_message_util.cc \
+flash/protobuf/google/protobuf/message.cc \
+flash/protobuf/google/protobuf/message_lite.cc \
+flash/protobuf/google/protobuf/reflection_ops.cc \
+flash/protobuf/google/protobuf/repeated_field.cc \
+flash/protobuf/google/protobuf/service.cc \
+flash/protobuf/google/protobuf/text_format.cc \
+flash/protobuf/google/protobuf/unknown_field_set.cc \
+flash/protobuf/google/protobuf/wire_format.cc \
+flash/protobuf/google/protobuf/wire_format_lite.cc \
+flash/protobuf/google/protobuf/io/coded_stream.cc \
+flash/protobuf/google/protobuf/io/gzip_stream.cc \
+flash/protobuf/google/protobuf/io/printer.cc \
+flash/protobuf/google/protobuf/io/tokenizer.cc \
+flash/protobuf/google/protobuf/io/zero_copy_stream.cc \
+flash/protobuf/google/protobuf/io/zero_copy_stream_impl.cc \
+flash/protobuf/google/protobuf/io/zero_copy_stream_impl_lite.cc \
+flash/protobuf/google/protobuf/stubs/stringprintf.cc \
+flash/protobuf/google/protobuf/stubs/atomicops_internals_x86_gcc.cc \
+flash/protobuf/google/protobuf/stubs/atomicops_internals_x86_msvc.cc \
+flash/protobuf/google/protobuf/stubs/common.cc \
+flash/protobuf/google/protobuf/stubs/once.cc \
+flash/protobuf/google/protobuf/stubs/strutil.cc \
+flash/protobuf/google/protobuf/stubs/structurally_valid.cc \
+flash/protobuf/google/protobuf/stubs/substitute.cc \
+platform/CCGLViewProtocol.cpp \
+platform/CCFileUtils.cpp \
+platform/CCSAXParser.cpp \
+platform/CCThread.cpp \
+platform/CCImage.cpp \
+math/CCAffineTransform.cpp \
+math/CCGeometry.cpp \
+math/CCVertex.cpp \
+math/Mat4.cpp \
+math/MathUtil.cpp \
+math/Quaternion.cpp \
+math/TransformUtils.cpp \
+math/Vec2.cpp \
+math/Vec3.cpp \
+math/Vec4.cpp \
+base/CCAutoreleasePool.cpp \
+base/CCConfiguration.cpp \
+base/CCConsole.cpp \
+base/CCData.cpp \
+base/CCDataVisitor.cpp \
+base/CCDirector.cpp \
+base/CCEvent.cpp \
+base/CCEventAcceleration.cpp \
+base/CCEventCustom.cpp \
+base/CCEventDispatcher.cpp \
+base/CCEventFocus.cpp \
+base/CCEventKeyboard.cpp \
+base/CCEventController.cpp \
+base/CCEventListener.cpp \
+base/CCEventListenerController.cpp \
+base/CCEventListenerAcceleration.cpp \
+base/CCEventListenerCustom.cpp \
+base/CCEventListenerFocus.cpp \
+base/CCEventListenerKeyboard.cpp \
+base/CCEventListenerMouse.cpp \
+base/CCEventListenerTouch.cpp \
+base/CCEventMouse.cpp \
+base/CCEventTouch.cpp \
+base/CCIMEDispatcher.cpp \
+base/CCNS.cpp \
+base/CCProfiling.cpp \
+base/CCRef.cpp \
+base/CCScheduler.cpp \
+base/CCScriptSupport.cpp \
+base/CCTouch.cpp \
+base/CCUserDefault.cpp \
+base/CCUserDefaultAndroid.cpp \
+base/CCValue.cpp \
+base/TGAlib.cpp \
+base/ZipUtils.cpp \
+base/atitc.cpp \
+base/base64.cpp \
+base/ccCArray.cpp \
+base/ccFPSImages.c \
+base/ccTypes.cpp \
+base/ccUTF8.cpp \
+base/ccUtils.cpp \
+base/etc1.cpp \
+base/s3tc.cpp \
+base/CCController.cpp \
+base/CCController-android.cpp \
+base/ObjectFactory.cpp \
+renderer/CCBatchCommand.cpp \
+renderer/CCCustomCommand.cpp \
+renderer/CCGLProgram.cpp \
+renderer/CCGLProgramCache.cpp \
+renderer/CCGLProgramState.cpp \
+renderer/CCGLProgramStateCache.cpp \
+renderer/CCGroupCommand.cpp \
+renderer/CCQuadCommand.cpp \
+renderer/CCMeshCommand.cpp \
+renderer/CCRenderCommand.cpp \
+renderer/CCRenderer.cpp \
+renderer/CCTexture2D.cpp \
+renderer/CCTextureAtlas.cpp \
+renderer/CCTextureCache.cpp \
+renderer/ccGLStateCache.cpp \
+renderer/ccShaders.cpp \
+deprecated/CCArray.cpp \
+deprecated/CCSet.cpp \
+deprecated/CCString.cpp \
+deprecated/CCDictionary.cpp \
+deprecated/CCDeprecated.cpp \
+deprecated/CCNotificationCenter.cpp \
+physics/CCPhysicsBody.cpp \
+physics/CCPhysicsContact.cpp \
+physics/CCPhysicsJoint.cpp \
+physics/CCPhysicsShape.cpp \
+physics/CCPhysicsWorld.cpp \
+physics/chipmunk/CCPhysicsBodyInfo_chipmunk.cpp \
+physics/chipmunk/CCPhysicsContactInfo_chipmunk.cpp \
+physics/chipmunk/CCPhysicsJointInfo_chipmunk.cpp \
+physics/chipmunk/CCPhysicsShapeInfo_chipmunk.cpp \
+physics/chipmunk/CCPhysicsWorldInfo_chipmunk.cpp \
+../external/ConvertUTF/ConvertUTFWrapper.cpp \
+../external/ConvertUTF/ConvertUTF.c \
+../external/tinyxml2/tinyxml2.cpp \
+../external/unzip/ioapi.cpp \
+../external/unzip/unzip.cpp \
+../external/edtaa3func/edtaa3func.cpp \
+../external/xxhash/xxhash.c \
+flash/PandoraLib/PvpManager.cpp \
+flash/PandoraLib/IPAddress.cpp \
+flash/PandoraLib/RandomMgr.cpp \
+flash/PandoraLib/DynamicUpdateMgr.cpp 
+
+LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH) \
+                    $(LOCAL_PATH)/. \
+                    $(LOCAL_PATH)/flash \
+                    $(LOCAL_PATH)/cryptopp \
+                    $(LOCAL_PATH)/flash/PandoraLib \
+                    $(LOCAL_PATH)/flash/protobuf \
+                    $(LOCAL_PATH)/flash/protobuf/google \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf/io \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf/stubs \
+                    $(LOCAL_PATH)/platform/android \
+                    $(LOCAL_PATH)/../external/tinyxml2 \
+                    $(LOCAL_PATH)/../external/unzip \
+                    $(LOCAL_PATH)/../external/chipmunk/include/chipmunk \
+                    $(LOCAL_PATH)/../external/xxhash \
+                    $(LOCAL_PATH)/../external/nslog \
+
+LOCAL_C_INCLUDES := $(LOCAL_PATH) \
+                    $(LOCAL_PATH)/. \
+                    $(LOCAL_PATH)/flash \
+                    $(LOCAL_PATH)/cryptopp \
+                    $(LOCAL_PATH)/flash/PandoraLib \
+                    $(LOCAL_PATH)/flash/protobuf \
+                    $(LOCAL_PATH)/flash/protobuf/google \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf/io \
+                    $(LOCAL_PATH)/flash/protobuf/google/protobuf/stubs \
+                    $(LOCAL_PATH)/platform/android \
+                    $(LOCAL_PATH)/../external \
+                    $(LOCAL_PATH)/../external/tinyxml2 \
+                    $(LOCAL_PATH)/../external/unzip \
+                    $(LOCAL_PATH)/../external/chipmunk/include/chipmunk \
+                    $(LOCAL_PATH)/../external/edtaa3func \
+                    $(LOCAL_PATH)/../external/xxhash \
+                    $(LOCAL_PATH)/../external/ConvertUTF \
+                    $(LOCAL_PATH)/../external/nslog \
+
+
+LOCAL_LDLIBS := -lGLESv2 \
+                -llog \
+                -lz \
+                -landroid
+
+LOCAL_EXPORT_LDLIBS := -lGLESv2 \
+                       -llog \
+                       -lz \
+                       -landroid
+
+LOCAL_WHOLE_STATIC_LIBRARIES := cocos_freetype2_static
+LOCAL_WHOLE_STATIC_LIBRARIES += chipmunk_static
+LOCAL_WHOLE_STATIC_LIBRARIES += cocos2dxandroid_static
+
+# define the macro to compile through support/zip_support/ioapi.c
+LOCAL_CFLAGS   :=  -DUSE_FILE32API
+LOCAL_CPPFLAGS := -Wno-deprecated-declarations -Wno-extern-c-compat
+LOCAL_EXPORT_CFLAGS   := -DUSE_FILE32API
+LOCAL_EXPORT_CPPFLAGS := -Wno-deprecated-declarations -Wno-extern-c-compat
+
+include $(BUILD_STATIC_LIBRARY)
+
+$(call import-module,freetype2/prebuilt/android)
+$(call import-module,chipmunk)
+$(call import-module,platform/android)
